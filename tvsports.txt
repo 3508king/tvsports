@@ -3,7 +3,7 @@
     "author": "ACTUALIZAR AL ENTRAR",
     "image": "https://i.imgur.com/NW9AUMM.png",
     "info": "Enlaces de internet",
-    "url": "",
+    "url": "https://raw.githubusercontent.com/3508king/tvsports/main/tvsports",
     "groups":[  {
 		"name": "AGENDA DEPORTIVA ",
 		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",

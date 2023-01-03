@@ -1,9 +1,6 @@
 #EXTM3U
 url="https://pastebin.com/raw.php?i=DFdSaZV9
-#EXTINF:-1,ES: LA 1 FHD
-http://492711360394321276.playhosts.xyz:80/play/vi08220/2281657605/321276.ts
-#EXTINF:-1,ES: LA 1 HD
-http://492711360394321277.playhosts.xyz:80/play/vi08220/2281657605/321277.ts
+
   #EXTINF:-1,ES: AMC HD
 http://492711360394321103.playhosts.xyz:80/play/vi08220/2281657605/321103.ts
 #EXTINF:-1,ES: #0 FHD

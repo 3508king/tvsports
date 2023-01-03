@@ -1,1787 +1,533 @@
- {
-	"name": "TV SPORTS",
-    "author": "ACTUALIZAR AL ENTRAR",
-    "image": "https://i.imgur.com/NW9AUMM.png",
-    "info": "Enlaces de internet",
-      "url": "https://raw.githubusercontent.com/3508king/tvsports/main/tvsports",
-    "groups": [{
-             "name": "AGENDA DEPORTIVA ",
-		"image": "https://2.bp.blogspot.com/-bvnijiVsLR4/XJ5uSe2yzjI/AAAAAAAABbk/30tJGRs-xz8H_XoZ8HsUxru7OgBW7c2JwCLcBGAs/s1600/Los-10-deportes-mas-practicados-en-todo-el-mundo.jpg",
-		"info": "",
-		"stations": [{
-	"name": "20:45                    Arsenal-Newcastle",
-"image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-                              "url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-			 "referer" : "https://starlive.xyz/",
-                    "isHost" : "true"				            
-		},{	    
-"name": "20:45  Arsenal-Newcastle",
-                    "image": "https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png/revision/latest?cb=20200608142409/",
-			   "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysprem",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"		
-},{
-		"name": "20:45 Arsenal-Newcastle",
-			"image": "https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",
-			"url": "https://unbiasedsenseevent.com/embed/3grzkavvjv",
-			"referer" : "https://elixx.xyz/",
-			"isHost": "true"                  }, {
-"name": "21:00                   Manchester United-AFC",
-"image": "https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6-live.png?width=200",
-			   "url": "https://gocast2.com/max.php?player=desktop&live=superfotball",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                },{ 
-"name": "21:00                   Ol.Lyonnais-Nice",
-               "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png",
-                   "url": "https://gocast2.com/embedcr.php?player=desktop&live=bbtespn",
-                   "referer": "https://gocast2.com/",
-             "isHost": "true"
-	           },{ 
-"name": "13:30                   Man.City-Brentford",
-               "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-"name": "13:30                   Man.City-Brentford",
-		   	        "image": "https://www.thesportsdb.com/images/media/tvlogo/uuvrpw1436898843.png",
-		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-"name": "13:30                   Man.City-Brentford",
-		   	      "image": "https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1-live.png?width=200",
-                               "url": "https://gocast2.com/max.php?player=desktop&live=superpremier",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       }, {
-"name": "16:00                   Liverpool-Southampton",
-	                   "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-"name": "16:00                   Liverpool-Southampton",
-				"image": "https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1-live.png?width=200",
-                               "url": "https://gocast2.com/max.php?player=desktop&live=superpremier",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       }, {
-"name": "16:00                   Liverpool-Southampton",
-					 "image": "https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",
-			"url": "https://unbiasedsenseevent.com/embed/3grzkavvjv",
-			"referer" : "https://elixx.xyz/",
-			"isHost": "true"
-		},{
-"name": "18:30                   Newcastle-Chelsea",
-					 "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	        		},{
-"name": "18:30                   Newcastle-Chelsea",
-					 "image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png",
-                              "url" : "https://gocast2.com/max.php?player=desktop&live=skysme",
-			 "referer" : "https://gocast2.com/",
-                    "isHost" : "true"
-	        		},{
-"name": "18:30                   Newcastle-Chelsea",
-					 "image": "https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1-live.png?width=200",
-                               "url": "https://gocast2.com/max.php?player=desktop&live=superpremier",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       }, {
-"name": "20:45                      Wolver-Arsenal",
-				 "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-"name": "20:45                      Wolver-Arsenal",
-				"image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
-                "url": "https://gocast2.com/embedcr.php?player=desktop&live=bein1en",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	              }, {
-"name": "20:45                      Wolver-Arsenal",
-				"image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png",
-                              "url" : "https://gocast2.com/max.php?player=desktop&live=skysme",
-			 "referer" : "https://gocast2.com/",
-                    "isHost" : "true"
-	
-
-                       }]
-    }, {
-			          	"name": "LA LIGA SANTANDER",
-		"image": "https://mundonogomet.com/wp-content/uploads/2018/08/anc3a1lisis-liga-santander.png",
-		"info": "",
-		"stations": [{
-		   		   			"name": "LA LIGA TV BAR",
-			"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=96&h=72&tok=73522f&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwp-content%2Fuploads%2F2021%2F02%2Flaligatvbar.png",
-			 "url": "https://utopianwilderness.com/embed/vmrjhp94n",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-		},{
-				   		   			"name": "LA LIGA TV BAR",
-			"image": "https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=96&h=72&tok=73522f&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwp-content%2Fuploads%2F2021%2F02%2Flaligatvbar.png",
-			 "url": "https://wecast.to/onionstream.php?stream=OgIxxiMNSzY3",
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-		},{
-		    "name": "MOVISTAR LA LIGA+",
-		   "image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-		   "url" : "http://212.224.84.208:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		   }, {
-		       "name": "MOVISTAR LA LIGA+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url" : "http://212.224.84.208:2200/NL/mlaliga1hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}		,{
-		      "name": "MOVISTAR LA LIGA2+ ",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Movistar_LaLiga_2.png/revision/latest?cb=20210308192011",
-			"url" : "http://212.224.84.208:2200/NL/mlaliga2hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                   },{
-		   "name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://utopianwilderness.com/embed/7str56mtb",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-		},{
-		   "name": "MOVISTAR LA LIGA",
-			"image": "https://music-tv.in/index.php?attachments/movistar-laliga-en-vivo-jpg.3315/",
-			 "url": "https://gocast2.com/max.php?player=desktop&live=mlaliga",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                     }, {
-			"name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
-			 }, {
-			"name": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			"image": "https://music-tv.in/index.php?attachments/movistar-laliga-en-vivo-jpg.3315/",
-			 "url": "https://strayindicate.net/embed/2twhx",
-			"referer": "https://1rowsportz.info/",
-			"isHost" : "true" 
-                   },{ 
-                      
-			"name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-                     }, {
-			"name": "VAMOS",
-			"image": "https://www.adslzone.net/app/uploads-adslzone.net/2018/08/vamos.jpg",
-			"url" : "https://wecast.to/onionstream.php?stream=Z5K0qdzLbMsM",
-			"referer": "https://wecast.to/",
-			              "isHost": "true" 
-                    }, {
-			"name": "VAMOS",
-			"image": "https://www.adslzone.net/app/uploads-adslzone.net/2018/08/vamos.jpg",
-			 "url": "https://vp1.flagtv.online/radian.html?&live=live&channel=jMCpuogiHz_FHD",
-			"referer": "https://vp1.flagtv.online/",
-			"isHost" : "true"
-			 }, {
-			
-    			"name": "70-2",
-			"image": "https://s.032.ua/section/newsInText/upload/images/news/intext/000/051/172/setanta-sports-image3_5d6f65cdacad7.jpg",
-                "url": "https://wecast.to/maxsport.php?stream=U3IUnCA5DxY3",
-                             "referer": "https://wecast.to/",
-			  "isHost" : "true"
-                 },{
-			"name": "ONE1ISRAEL",
-			"image": "https://www.laligafantasyone.com/assets/one/img/logos/logo-fantasy-one-dark.png",
-                "url": "https://wecast.to/maxsport.php?stream=5JNccT2CxLz",
-                "referer": "https://wecast.to/",
-			  "isHost" : "true"
-                 },{
-			"name": "SETANTASPORTS 1 RU",
-			"image": "https://smotrimsport.com/uploads/posts/2020-03/1583239906_senata_sport_1.jpg",
-			"url": "http://92.119.88.58:8080/271/index.m3u8",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                 },{
-                    "name": "SETANTASPORTS 2 RU",
-                    "image": "https://smotrimsport.com/uploads/posts/2020-03/1583239890_senata_sport_2.png",
-                    "url": "http://92.119.88.58:8080/270/index.m3u8",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                 
-                    
-                   }]
-                      }, {
-			          	"name": "MOVISTAR+",
-		"image": "https://www.trecebits.com/wp-content/uploads/2020/05/movistar-plus-1.jpg",
-		"info": "",
-		"stations": [ {
-		    "name": "#VAMOS+",
-			"image": "https://www.adslzone.net/app/uploads-adslzone.net/2018/08/vamos.jpg",
-			      "url" : "http://212.224.84.207:2200/NL/vamoshd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Db1-feaZasaY6_Edv-a9agAw%3D%3D%2C7928642496.",
-             "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-			 },  {
-			"name": "#VAMOS",
-			"image": "https://www.adslzone.net/app/uploads-adslzone.net/2018/08/vamos.jpg",
-			      "url" : "https://utopianwilderness.com/embed/fhc0cutcd",
-	        "referer" : "https://starlive.xyz/",
-			"isHost" : "true"
-			 },  {
-			"name": "#VAMOS",
-			"image": "https://www.adslzone.net/app/uploads-adslzone.net/2018/08/vamos.jpg",
-			 "url": "https://vp1.flagtv.online/radian.html?&live=live&channel=jMCpuogiHz_FHD",
-			"referer": "https://vp1.flagtv.online/",
-			"isHost" : "true"
-			 },    {
-			     "name": "MOVISTAR DEPORTES HD+",
-			"image": "https://www.giztele.com/wp-content/uploads/2018/06/Movistar-Deportes.png",
-			      "url": "http://212.224.84.207:2200/NL/mdeporteshd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-			 },    {
-				    "name": "MOVISTAR GOLF+",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/0/02/Movistar_Golf.svg/revision/latest/scale-to-width-down/250?cb=20171026165109",
-			"url" : "http://212.224.84.208:2200/NL/mgolfhd-esp/index.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw==,7928642496.",
-           "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "AMC HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/e/eb/AMC_HD_2020.svg/revision/latest/scale-to-width-down/200?cb=20220605083117",
-			 "url" : "http://212.224.84.207:2200/NL/amc-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "AXN HD+",
-				"image": "https://telecomtalk.info/wp-content/uploads/2014/08/axn-hd-launch-india.png",
-			 "url" : "http://212.224.84.207:2200/NL/axn-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                  "name": "AXN WHITE HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/7/7c/AXN_White.png/revision/latest/scale-to-width-down/1000?cb=20161214222911",
-			 "url" : "http://212.224.84.207:2200/NL/axnwhite-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                  "name": "CALLE 13 HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Nbc_calle_13_universal_hd_black_rgb-719323.jpg/revision/latest/scale-to-width-down/185?cb=20180128225133",
-			 "url" : "http://212.224.84.207:2200/NL/calle13-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-             "name": "CANAL HOLLYWOOD HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/83/Canal_Hollywood.svg/revision/latest/scale-to-width-down/200?cb=20100605101218",
-			 "url" : "http://212.224.84.207:2200/NL/canalhollywood-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                  "name": "CANAL COCINA HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Canal_Cocina.svg/revision/latest/scale-to-width-down/250?cb=20100605142926",
-			 "url" : "http://212.224.84.207:2200/NL/canalcocina-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "CAZA Y PESCA HD HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/1/11/Caza-y-Pesca-Logotipo-2016.png/revision/latest/scale-to-width-down/220?cb=20161008171111",
-			 "url" : "http://212.224.84.207:2200/NL/cazaypescahd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                   "name": "COSMO HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/83/Canal_Hollywood.svg/revision/latest/scale-to-width-down/200?cb=20100605101218",
-			 "url" : "http://212.224.84.207:2200/NL/cosmohd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "DISCOVERY HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png/revision/latest/scale-to-width-down/200?cb=20141027100430",
-			 "url" : "http://212.224.84.207:2200/NL/discovery-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "EUROSPORT 1 HD+",
-			"image": "https://i.ibb.co/rQQrmkQ/eurosport.gif",
-         "url": "http://212.224.84.207:2200/NL/eurosport1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			 "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-			 },  {
-			     "name": "EUROSPORT 2 HD+",
-			"image": "http://2.bp.blogspot.com/_bWZXYXxZgk8/THUGRA7WdkI/AAAAAAAABbU/mCOKeZ9zsFY/s1600/Eurosport2SUWTAnglet.jpg",
-			"url" : "http://212.224.84.206:2200/NL/eurosport2-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}, {
-                 "name": "FOX HD+",
-				"image": "https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",
-			 "url" : "http://212.224.84.207:2200/NL/fox-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "GOLPLAY HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/89/GOL_PLAY.svg/revision/latest/scale-to-width-down/300?cb=20220812193443",
-			 "url" : "http://212.224.84.207:2200/NL/gol-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "HISTORIA HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/6/69/Historia_2022_Spain.png/revision/latest/scale-to-width-down/200?cb=20221019124651",
-			 "url" : "http://212.224.84.207:2200/NL/historia-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "MOVISTAR COMEDIA HD+",
-				"image": "https://archive.org/download/picons/Movistar%20Comedia.png",
-			 "url" : "http://212.224.84.207:2200/NL/mcomedia-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "MOVISTAR ACCIÓN HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/2/20/Movistar_Acci%C3%B3n.svg/revision/latest/scale-to-width-down/250?cb=20171026145947",
-			 "url" : "http://212.224.84.207:2200/NL/maccion-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "NATIONAL GEOGRAPHIC HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/c/c6/National_Geographic_2008.svg/revision/latest/scale-to-width-down/300?cb=20170701154034",
-			 "url" : "http://212.224.84.208:2200/NL/natgeo-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	             }, {
-                 "name": "NATIONAL GEO WILD HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/d/d9/National_Geographic_Wild_2018.svg/revision/latest/scale-to-width-down/200?cb=20180903172554",
-				"url" : "http://212.224.84.208:2200/NL/natgeowild-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		           }, {
-		               "name": "ODISEA HD+",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/8d/Odisea.png/revision/latest/scale-to-width-down/250?cb=20160430224323",
-			 "url" : "http://212.224.84.207:2200/NL/odisea-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-             }, {
-                 "name": "PARAMOUNT HD+",
-                 "image": "https://static.wikia.nocookie.net/logopedia/images/1/1e/Paramount_Global.svg/revision/latest/scale-to-width-down/250?cb=20220216163734",
-				"url" : "http://212.224.84.208:2200/NL/paramount-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		            		             }, {
-                 "name": "TCM HD+",
-                 "image": "https://static.wikia.nocookie.net/logopedia/images/0/09/TCM_2019.svg/revision/latest/scale-to-width-down/300?cb=20191224233600",
-				"url" : "http://212.224.84.208:2200/NL/tcm-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		             		             }, {
-                 "name": "TNT HD+",
-                 "image": "https://static.wikia.nocookie.net/logopedia/images/f/f4/TNT_2016.svg/revision/latest/scale-to-width-down/200?cb=20201128113457",
-				"url" : "http://212.224.84.208:2200/NL/tnt-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		             }, {
-                 "name": "MOVISTAR LA LIGA HD+",
-		   "image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-		   "url" : "http://212.224.84.208:2200/NL/mlaligahd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		   }, {
-		       		   "name": "MOVISTAR LA LIGA",
-		   "image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-		   "url": "https://utopianwilderness.com/embed/7str56mtb",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-		   }, {
-		   "name": "MOVISTAR LA LIGA",
-		   "image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-		"url": "https://wecast.to/onionstream.php?stream=ZDUfOFldOZ40",
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-                     }, {
-			"name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://parsimoniousinvincible.net/embed/6na79kddf",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
-			 }, {
-			"name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://strayindicate.net/embed/2twhx",
-			"referer": "https://1rowsportz.info/",
-			"isHost" : "true" 
-                   },{ 
-			"name": "MOVISTAR LA LIGA",
-			"image": "https://static.wikia.nocookie.net/logopedia/images/1/14/Movistar_LaLiga.svg/revision/latest/scale-to-width-down/250?cb=20190812095708",
-			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-                     }, {
-                         "name": "MOVISTAR LA LIGA2 HD+ ",
-				"image": "https://static.wikia.nocookie.net/logopedia/images/8/8f/Movistar_LaLiga_2.png/revision/latest?cb=20210308192011",
-			"url" : "http://212.224.84.208:2200/NL/mlaliga2hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-            "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                   },{
-                         "name": "M.LIGA CAMPEONES HD+",
-            "image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png", 
-	 "url" : "http://212.224.84.207:2200/NL/mlcampeonhd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-     "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                     }, {
-						"name": "M.LIGA CAMPEONES",
-					"image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png",
-					           "url" : "https://deliriousholistic.net/embed/e15sctndd4",
-			 "referer": "https://starlive.xyz/",
-             "isHost": "true" 
-		 },          { 
-                     "name": "M.LIGA CAMPEONES",
-			"image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/CHAPIO.png",
-			 "url": "https://deliriousholistic.net/embed/04qv1f7qpax",
-			"referer": "https://bahiadeportes.com/",
-			"isHost" : "true"
-                     }, {
-			"name": "M.LIGA CAMPEONES",
-			"image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",
-      "url": "https://unbiasedsenseevent.com/embed/pyxs8u5a6hp",
-			"referer": "https://l1l1.to/",
-			"isHost" : "true"
-                       }, {
-			"name": "M.LIGA CAMPEONES",
-			"image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",
-           "url": "https://utopianwilderness.com/embed/datzi6",
-			  "referer" : "https://starlive.xyz/",
-              "isHost" : "true"
-                     }, {
-			"name": "M.LIGA CAMPEONES ",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			   "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-			 "referer": "https://buzztv.futbol/",
-			"isHost": "true"
-                     }, {
-                         "name": "M.LIGA CAMPEONES 2+",
-                         "image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			"url" : "http://212.224.84.207:2200/NL/mlcampeon2hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                     
-                    }, {
-			"name": "M.LIGA CAMPEONES 2",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			  "url": "https://maxsport.one/ch6.php",
-              "isHost" : "true"
-                     
-                    }, {
-                        "name": "M.LIGA CAMPEONES 3+",
-                         "image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			"url" : "http://212.224.84.207:2200/NL/mlcampeon3hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                     
-                    }, {
-			"name": "M.LIGA CAMPEONES 3",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",
-			  "url": "https://maxsport.one/ch4.php",
-             "isHost": "true" 
-           }, {
-			"name": "M.LIGA CAMPEONES 3",
-			"image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png",
-        "url": "https://78dmd775ix504k.constraindefiant.net/embed/52g8nnqi37bly6",
-	           "referer" : "https://streamonsport360.buzz/",
-                     "isHost" : "true"   
-                }, {
-                    "name": "M.LIGA CAMPEONES 4+",
-                         "image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			"url" : "http://212.224.84.207:2200/NL/mlcampeon4hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                     
-                    }, {
-			"name": "M.LIGA CAMPEONES 4",
-			"image": "https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png",
-          "url": "https://maxsport.one/ch27.php",
-              "isHost" : "true"
-               }, {
-			"name": "M.LIGA CAMPEONES 5+",
-                         "image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			"url" : "http://212.224.84.207:2200/NL/mlcampeon5hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-               }, {
-			"name": "M.LIGA CAMPEONES 6+",
-                         "image": "https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png",
-			"url" : "http://212.224.84.207:2200/NL/mlcampeon6hd-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		
-	         }]
-                    
-                      },{
-            "name": "DAZN ESPAÑA",
-            "image": "https://th.bing.com/th/id/OIP.2oIy1LnV3um8uZhydRNRTQHaHa?pid=ImgDet&rs=1",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          }, {
-	              "name": "DAZN 1+",
-				"image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn1-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	             "name": "DAZN 2+",
-				"image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-			 "url" : "http://212.224.84.207:2200/NL/dazn2-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	              "name": "DAZN 3+",
-				"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",
-			 "url" : "http://212.224.84.207:2200/NL/dazn3-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	               "name": "DAZN 4+",
-				"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png",
-			 "url" : "http://212.224.84.207:2200/NL/dazn4-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	               "name": "DAZN 5+",
-				"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-5-espana-es.png",
-			 "url" : "http://212.224.84.207:2200/NL/dazn2-esp/tracks-v1a1/mono.m3u8?token=RED_z1Dab1-feaZasgattaY6_Edv-a9aaggAw%3D%3D%2C7928642496.",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	              "name": "DAZN LA LIGA",
-			"image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-			 "url": "https://wecast.to/onionstream.php?stream=OgIxxiMNSzY3",
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-	          }, {
-	              "name": "DAZN LIGA",
-	              "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-                               "url" : "https://wecast.to/hls.php?stream=YbS2aKEdpGY6",
-        "referer": "https://wecast.to/",
-	                       "isHost": "true"
-                 },{
-                     "name": "DAZN LA LIGA",
-			"image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-			 "url": "https://unbiasedsenseevent.com/embed/2k2kr220ol6yr6i",
-              "referer": "https://l1l1.to/",
-             "isHost": "true"
-                     }, { 
-	         
-                    "name": "DAZN LIGA",
-                    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-			   "url": "https://gocast2.com/max.php?player=desktop&live=daznlaliga",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                 },{
-	              "name": "DAZN LIGA",
-                    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-                               "url": "https://utopianwilderness.com/embed/c94q8ojya43p2",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-              },{
-	                   "name": "DAZN LIGA",
-                    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-			   "url" : "https://unbiasedsenseevent.com/embed/df7nk3qyxpu1vx",
-            "referer": "https://buzztv.futbol/",
-             "isHost": "true"
-                       },  {
-                           "name": "DAZN LIGA",
-                    "image": "https://image.discovery.indazn.com/eu/v3/eu/none/1075242565118_image-header_pEs_1661946014000/fill/center/top/none/85/960/552/jpg/image",
-			   "url" : "https://cdn122.com/embed/2k2kr220ol6yr6i?skin=1",
-			 "referer": "https://l1l1.to/",
-             "isHost": "true"
-                       },  {
-                           "name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "https://gocast2.com/max.php?player=desktop&live=dazn1es",
-			 "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       },  {
-                           "name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true"
-                       },  {
-                 "name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-                              "url" : "https://utopianwilderness.com/embed/ytwuivbbmevp6d",
-			 "referer" : "https://starlive.xyz/",
-                    "isHost" : "true"
-                       }, {
-                    "name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true"
-	               }, {
-                    "name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			  "url": "https://wecast.to/onionstream.php?stream=7uWzf9AjT6vv",
-			  "referer": "https://wecast.to/",
-			"isHost": "true"
-                      }, {
-			"name": "Dazn 1",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-			 "url" : "https://parsimoniousinvincible.net/embed/zbz7klq",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true"
-                      }, { 
-                                   "name": "Dazn 2",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-              "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-                    },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-                   "url": "https://wecast.to/onionstream.php?stream=vQ3uV8WE8MSt",
-                   "referer": "https://wecast.to/",
-             "isHost": "true"
-	           },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-                   "url" : "https://deliriousholistic.net/embed/lup8x",
-			 "referer": "https://bahiadeportes.com/",
-             "isHost": "true"
-                    },{ 
-                 "name": "Dazn 2",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-                   "url" : "https://livetvon.click/stream/stream-446.php",
-			  "isHost" : "true"
-                    },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",
-                     "url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
-            "referer" : "https://leet365.cc/",
-            "isHost":"true"
-                   },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",
-                  "url": "https://livetvon.click/stream/stream-447.php",
-            "isHost":"true"
-	           },{ 
-                 "name": "Dazn 3",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-3-espana-es.png",
-                     "url": "https://maxsport.one/dazn3.php",
-            "isHost":"true"
-                    },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png",
-                    "url": "https://ragnarp.net/embed/zwaaqmvcz",
-                     "referer" : "https://macron.xyz/",
-                    "isHost":"true"  
-		      },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png",
-                    "url": "https://maxsport.one/dazn4.php",
-                    "isHost":"true"  
-                     },{ 
-                 "name": "Dazn 4",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-4-espana-es.png",
-                     "url": "https://livetvon.click/stream/stream-448.php",
-             "isHost": "true"  
-		},{ 
-		    "name": "CANAL+ SPORT FR",
-			"image": "https://www.chillglobal.com/images/channels/canalsport-1432632486.jpg",
-			"url" : "https://wecast.to/onionstream.php?stream=Z5K0qdzLbMsM",
-			"referer": "https://wecast.to/",
-			              "isHost": "true" 
-		},{
-		    "name": "DAZN F1 HD",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",
-			"url": "https://parsimoniousinvincible.net/embed/r23llp",
-            "referer" : "https://leet365.cc/",
-		            "isHost": "true"  
-		},{
-		    "name": "DAZN F1 HD",
-			"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",
-			"url": "https://starlive.xyz/embed.php?id=liveDaznF1_ES", 
-			 "isHost":"true"  
-               }, {   
-		    
-                 "name": "DAZN F1 HD",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",
-                     "url": "https://deliriousholistic.net/embed/5lgf5qly",
-                     "referer": "https://starlive.xyz/",
-             "isHost": "true"  
-		},{
-		   "name": "DAZN F1 HD",
-			"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",
-			 "url": "https://deliriousholistic.net/embed/2sdwgqmqzm1",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     }]
-                    }, {
-                        
-		"name": "FORMULA 1 - MOTOGP",
-		"image": "https://as01.epimg.net/motor/imagenes/2017/04/10/formula_1/1491815920_679993_1491815989_noticia_normal_recorte1.jpg",
-		"info": "",
-		"stations": [{
-          "name": "FORMULA 1",
-			"image": "https://www.lyngsat-logo.com/logo/tv/dd/dazn-f1-uk-es.png",
-			  "url": "https://utopianwilderness.com/embed/jzbxdprc32q",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-          }, {
-          "name": "SKY SPORTS F1 UK",
-			"image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-f1-it.png",
-			"url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfor1",
-            "referer" : "https://gocast2.com/",
-			 "isHost":"true"
-		 }, {
-          "name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url": "https://tvhd.capshd.xyz/online/daznf1.php",
-            "referer" : "https://www.daddylive.pro/",
-			 "isHost":"true"	 
-            }, {   
-			"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-			"url": "https://deliriousholistic.net/embed/su1la223",
-                      "referer" : "https://bahiadeportes.com/",
-             "isHost":"true"
-               }, {   
-			"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-              "url": "https://starlive.xyz/embed.php?id=liveDaznF1", 
-			 "isHost":"true"  
-              }, {
-                  	"name": "Formula 1",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-                  			"url" : "https://deliriousholistic.net/embed/5lgf5qly",
-					 "referer" : "https://www.curvaweb.com/",
-			"userAgent": "true"
-        }, {
-			"name": "Formula 1-Inglés",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-            "url" : "http://ufckhabib.com/f1/formula1-stream.php",
-			"isHost": "true"
-		}, {
-			"name": "Formula 1-Inglés",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-            "url" : "http://timesports.cc/skysportsformula1.php",
-			"isHost": "true"
-	             },{
-			"name": "SKY SPORTS F1 UK",
-			"image": "https://www.merca2.es/wp-content/uploads/2020/03/formula-1-2020-movistar-643x450-1.jpg",
-            "url" : "https://streamservicehd.click/premiumtv/livetvon.php?id=60",
-            "referer" : "https://livetvon.click/",
-			"isHost": "true"
-	             },{
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-             "url": "https://parsimoniousinvincible.net/embed/zbz7klq",
-              "referer": "https://leet365.cc/",
-             "isHost": "true"
-                     },{
-			"name": "CANAL + FR Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-             "url": "https://hls-m006.live-lv3.canalplus-cdn.net/live/disk/canalplusmotogp-hd/dash-fhddvr/canalplusmotogp-hd.mpd",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true"
-                     },{
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-              "url": "https://tvhd.capshd.xyz/online/canal421.php",
-			"referer": "https://www.daddylive.pro/",
-             "isHost": "true"
-                    },{
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url" : "https://warnforlese.net/embed/zbz7klq",
-			 "referer": "https://macron.xyz/",
-             "isHost": "true"
-                 },{
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-            "url": "https://livetvon.click/stream/stream-445.php",
-             "isHost": "true"
-               },{
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-             "url" : "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed80",
-			 "referer": "https://leet365.cc/",
-             "isHost": "true"
-	              }, {
-			"name": "Moto GP",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-             "url" : "https://strayindicate.net/embed/t7w70x7v57",
-			 "referer": "https://1rowsportz.info/",
-             "isHost": "true"
-                   },{
-			
-			               "name": "SKY SPORTS MOTOGP",
-                     "image": "https://www.thesportsdb.com/images/media/tvlogo/693fja1595133458.png",
-                "url": "https://utopianwilderness.com/embed/d9g5w8sf900",
-                "referer": "https://starlive.xyz/",
-             "isHost": "true"  
-                    
-                  }, {
-			"name": "Moto GP (Latino)",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-         "url": "https://sportkart1.xyz/tv/scplayer-150.php",
-                    "referer" : "https://maxsport.one/",
-                     "isHost" : "true"
-          }, {
-			"name": "Moto GP (inglés)",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-			"url": "http://ufckhabib.com/f1/motogp-streams.php",
-			 "isHost":"true"
-		 }, {
-			"name": "Moto GP (Inglés)",
-			"image": "https://okdiario.com/img/2016/04/moto-gp-655x368.png",
-			 "url": "https://ragnaru.net/embed2.php?player=desktop&live=do2",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-		 }]
-                 
-	},{
-	    "name": "DIRECTV SPORTS",
-		"image": "https://1.bp.blogspot.com/-S0NyMDH5MH4/X-gfgz1cpVI/AAAAAAAAQFQ/vB5yql-ZdvspNfawDIZvblGcar2uezLRgCLcBGAsYHQ/s0/directvsports.png",
-		"info": "",
-		"stations": [{
-	            "name": "DIRECTV SPORTS 1 HD",
-                     "image": "https://1.bp.blogspot.com/-S0NyMDH5MH4/X-gfgz1cpVI/AAAAAAAAQFQ/vB5yql-ZdvspNfawDIZvblGcar2uezLRgCLcBGAsYHQ/s0/directvsports.png",
-                "url": "http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8",
-               "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	       }, {
-	            "name": "DIRECTV SPORTS 1 HD",
-                     "image": "https://1.bp.blogspot.com/-S0NyMDH5MH4/X-gfgz1cpVI/AAAAAAAAQFQ/vB5yql-ZdvspNfawDIZvblGcar2uezLRgCLcBGAsYHQ/s0/directvsports.png",
-                "url": "https://bit.ly/3S65do3",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	       }, {
-	            "name": "DIRECTV SPORTS 1 HD",
-                     "image": "https://1.bp.blogspot.com/-S0NyMDH5MH4/X-gfgz1cpVI/AAAAAAAAQFQ/vB5yql-ZdvspNfawDIZvblGcar2uezLRgCLcBGAsYHQ/s0/directvsports.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium139",
-                "referer": "https://maxsport.one/",
-             "isHost": "true"  
-		
-	          }, {
-	            "name": "DIRECTV SPORTS 2 HD",
-                     "image": "https://1.bp.blogspot.com/-t-pRHXMzU5k/X-gfxolxTDI/AAAAAAAAQFY/7OOqa9LvDNcsaFfUfV8mf4Bs4iShWGcqwCLcBGAsYHQ/s0/directvsports2.png",
-                "url": "http://clientsportals.com:2095/zsjc2FSW/mrFswGP1/72239",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	             }, {
-	            "name": "DIRECTV SPORTS 2 HD",
-                     "image": "https://1.bp.blogspot.com/-t-pRHXMzU5k/X-gfxolxTDI/AAAAAAAAQFY/7OOqa9LvDNcsaFfUfV8mf4Bs4iShWGcqwCLcBGAsYHQ/s0/directvsports2.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium429",
-                "referer": "https://streamservicehd.click/",
-             "isHost": "true"  
-	            }, {
-	            "name": "DIRECTV SPORTS 2 HD",
-                     "image": "https://1.bp.blogspot.com/-t-pRHXMzU5k/X-gfxolxTDI/AAAAAAAAQFY/7OOqa9LvDNcsaFfUfV8mf4Bs4iShWGcqwCLcBGAsYHQ/s0/directvsports2.png",
-                "url": "http://line.powerdino.com/4375a1dd43/649f75a876/628276",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	        }, {
-	            "name": "DIRECTV +",
-                     "image": "https://1.bp.blogspot.com/-S0NyMDH5MH4/X-gfgz1cpVI/AAAAAAAAQFQ/vB5yql-ZdvspNfawDIZvblGcar2uezLRgCLcBGAsYHQ/s0/directvsports.png",
-                "url": "http://line.powerdino.com/4375a1dd43/649f75a876/628275",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	      }, {
-	            "name": "ESPN DEPORTES",
-                     "image": "https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg",
-                "url": "http://38.143.137.221:8000/LA81/index.m3u8",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	      }, {
-                "name": "ESPN 2 DEPORTES",
-                     "image": "https://futbolparatodos.net/wp-content/uploads/2020/12/ESPN_2.png?x25675",
-                "url": "http://190.60.37.69:8015/play/a01e/index.m3u8",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	      }, {
-	          "name": "ESPN 3 DEPORTES",
-                     "image": "https://1.bp.blogspot.com/-CLkoGPWLmFc/UTe3dg6T1FI/AAAAAAAAP2U/Y5GvgAomXWY/s1600/logo+espn+3+2013.png",
-                "url": "http://190.60.37.69:8015/play/a04i/index.m3u8",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	    	      }, {
-	          "name": "ESPN + DEPORTES",
-                     "image": "https://3.bp.blogspot.com/-2dSSXOU-NyQ/UTe3dagHBHI/AAAAAAAAP2Q/Qz2HqMyAP4o/s1600/logo+espn+++2013.png",
-                "url": "http://38.143.137.221:8000/LA78/index.m3u8",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                }, {
-	          "name": "TUDN MEXICO",
-                     "image": "https://1.bp.blogspot.com/-4iymTDBJ-5M/X1pgAwgX3XI/AAAAAAAAzeE/60mmSd67pOMF-WXbVQ5pfeJOQ3cxh9fZwCLcBGAsYHQ/s640/logo-tudn.jpg",
-                "url": "http://190.61.102.67:31589/play/a08o/index.m3u8",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                }, {
-	          "name": "UNIVISION MEXICO",
-                     "image": "https://wallpapercave.com/wp/wp4439701.jpg",
-                "url": "http://190.61.102.67:8000/play/a05d",
-                "userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-			  }]
-	},{
-            "name": "SKY SPORTS DE-DAZN ",
-            "image": "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          }, {
-	                  "name": "Dazn 1 DE",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-	          "url" : "https://wecast.to/onionstream.php?stream=Cz83ZA7NOEI",
-		"referer": "https://wecast.to/",
-		"isHost": "true"
-                    }, {
-			"name": "Dazn 1 DE",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-1-logo.jpg",
-	          "url": "http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Skt1rOuXiWgbEjjEVWWdA4I",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                    }, {
-                        "name": "Dazn 2 DE",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-	          "url" : "http://boomtivi.xyz:80/play/eyw41fEXZ4-TU6JVL0b1Sl4PR2-6eZEHuOmWnlPbYOc",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                    }, {
-			"name": "Dazn 2 DE",
-                    "image": "https://www.dslweb.de/public/resources/images/logos/sender/dazn-2-logo.jpg",
-	          "url" : "https://wecast.to/onionstream.php?stream=38ToYgfhqYqT",
-		"referer": "https://wecast.to/",
-		"isHost": "true"
-                    }, {
-                 "name": "SKY SPORT 1",
-                    "image": "https://1.bp.blogspot.com/-NurJbOKb6N8/U1cjii4zb3I/AAAAAAAAAGk/i2JKahm0zsc/s1600/sky+sports+1.png",
-                               "url": "https://wecast.to/onionstream.php?stream=yMTUM39K4eil",
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-                    }, {
-                        
-                 "name": "SKY SPORT 2",
-                    "image": "https://0nline.tv/wp-content/uploads/2020/03/sky-sports-2-1.png",
-                               "url": "https://wecast.to/onionstream.php?stream=EANW4OA21JKo",
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-                    }, {
-                 "name": "SKY SPORT 3",
-                    "image": "http://3.bp.blogspot.com/-V_KSRgd0pvU/T60egyaTlKI/AAAAAAAAAJw/nY2BDvvrPIc/s320/Sky-Sport-3-TV-Watch-Online.png",
-                               "url": "https://wecast.to/onionstream.php?stream=yMTUM39K4eil"     ,
-              "referer": "https://wecast.to/",
-             "isHost": "true"
-                      }]
-	}, {
-            "name": "SKY SPORTS UK",
-            "image": "https://static.skyassets.com/contentstack/assets/bltdc2476c7b6b194dd/bltfa4a7a1ade21b554/5f6078716f40ab4648b5c543/Sky_Sports_PRIMARY_RGB.jpg",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          }, {
-                 "name": "SKY SPORTS FOOTBALL",
-                    "image": "https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-football-it.png",
-                               "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfott",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       }, {
-                    "name": "SKY SPORTS PREMIER LEAGUE",
-                    "image": "https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png/revision/latest?cb=20200608142409/",
-			   "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysprem",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                 }, {
-                 "name": "SKY SPORTS MAIN EVENT",
-                    "image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png",
-                              "url" : "https://noob4cast.com/fsembed.php?player=desktop&live=skysme",
-			 "referer" : "https://noob4cast.com/",
-                    "isHost" : "true"
-                       }, {
-                 "name": "SKY SPORTS MAIN EVENT",
-                    "image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png",
-                              "url" : "https://gocast2.com/max.php?player=desktop&live=skysme",
-			 "referer" : "https://gocast2.com/",
-                    "isHost" : "true"
-                       },{
-                    "name": "SKY SPORTS F1",
-                    "image": "https://e2.365dm.com/17/07/1600x900/skysports-valtteri-bottas-mercedes-sky-f1-promo_4006125.jpg",
-			  "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysfor1",
-			"referer": "https://gocast2.com/",
-             "isHost": "true"
-	               }, {
-	                 
-                    "name": "SKY SPORTS GOLF",
-                    "image": "https://www.thesportsdb.com/images/media/tvlogo/tyqypy1433965234.png",
-					  "url": "http://cricplay2.xyz/link3/sky-sports-golf",
-			"referer": "http://cricfree.live/",
-			          "isHost": "true"
-	               }, {
-                    "name": "SKY SPORTS ARENA",
-                    "image": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-arena-logo.png",
-			  "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysare",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      }]
-	},{
-                      "name": "BT SPORT UK",
-            "image": "https://i.dailymail.co.uk/1s/2019/12/12/09/22144372-7784501-BT_Sport_has_been_made_available_on_a_pay_monthly_contract_free_-a-12_1576142630990.jpg",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          },{
-			"name": "BT SPORT 1",
-                    "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png",
-			 "url" : "https://gocast2.com/embedcr.php?player=desktop&live=bbtsp1",
-			 "referer": "https://gocast2.com/",
-             "isHost": "true"
-	                }, {
-	                    "name": "BT SPORT 1",
-                    "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png",
-			 "url" : "https://unbiasedsenseevent.com/embed/af34f3lsimxj",
-			 "referer": "https://elixx.xyz/",
-             "isHost": "true"
-	                }, {
-			"name": "BT SPORT 2",
-                    "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1540.1647385004.png",
-                     "url" : "https://gocast2.com/embedcr.php?player=desktop&live=bbtsp2",
-	         "referer": "https://gocast2.com/",
-             "isHost": "true"
-                    },{ 
-                 "name": "BT SPORT 3",
-                    "image": "https://media.info/i/lf/0/1647385037/5712.png",
-              "url": "https://gocast2.com/embedcr.php?player=desktop&live=bbtsp3",
-			"referer": "https://gocast2.com/",
-             "isHost": "true"
-                    },{ 
-                 "name": "BT SPORT 4",
-                    "image": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png",
-                   "url": "https://gocast2.com/embedcr.php?player=desktop&live=bbtespn",
-                   "referer": "https://gocast2.com/",
-             "isHost": "true"
-	           },{ 
-                 "name": "BT SPORT 5",
-                    "image": "https://i.postimg.cc/JngyWqR6/ezgif-2-9a71a930d1.png",
-                   "url" : "https://gocast2.com/max.php?player=desktop&live=hdchnl10",
-			 "referer": "https://gocast2.com/",
-		             "isHost": "true"
-                    },{ 
-                 "name": "BT SPORT 6 ",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/fcw6g51660585893.png",
-                   "url" : "https://gocast2.com/max.php?player=desktop&live=hdchnl11",
-			  "isHost" : "true"
-                    },{ 
-                 "name": "BT SPORT 7",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/5sm2qu1660585942.png",
-                     "url": "https://warnforlese.net/embed/xvofyfktwqkwrr",
-            "referer" : "https://leet365.cc/",
-            "isHost":"true"
-                   },{ 
-                 "name": "BT SPORT 8",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/v5aip21660586042.png",
-                  "url": "https://livetvon.click/stream/stream-447.php",
-            "isHost":"true"
-	           },{ 
-                 "name": "BT SPORT 9",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/7f5vr31660586061.png",
-                     "url": "https://maxsport.one/dazn3.php",
-            "isHost":"true"
-                    },{ 
-                 "name": "BT SPORT 10",
-                    "image": "",
-                    "url": "https://ragnarp.net/embed/zwaaqmvcz",
-                     "referer" : "https://macron.xyz/",
-                    "isHost":"true"  
-                    }]
-		      },{
-                      "name": "PREMIERSPORTS",
-            "image": "https://advanced-television.com/wp-content/uploads/2021/07/PremierSports.jpg",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://media2.giphy.com/media/tQ204IGOgjQxmHmJ2V/giphy.gif?cid=ecf05e47f27f2r8z3z7j9w1yzwgx4qj027e67gfj1ifirvq0&rid=giphy.gif&ct=g",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          },{
-			"name": "PREMIERSPORTS 1 HD",
-                    "image": "https://music-tv.in/index.php?attachments/watch-live-premier-sports-1-jpg.3311/",
-			 "url" : "https://gocast2.com/embedcr.php?player=desktop&live=premieruk",
-			 "referer": "https://gocast2.com/",
-             "isHost": "true"
-	                }, {
-			"name": "PREMIERSPORTS 2 HD",
-                    "image": "https://music-tv.in/index.php?attachments/watch-live-premier-sports-2-jpg.3312/",
-                     "url" : "https://gocast2.com/embedcr.php?player=desktop&live=hdchnl2",
-	         "referer": "https://gocast2.com/",
-             "isHost": "true"
-	                }, {
-             "name": "VIAPLAY XTRA",
-                    "image": "https://gratismanad.se/wp-content/uploads/2020/04/viaplay-4-300x195.png",
-			 "url" : "https://gocast2.com/max.php?player=desktop&live=hdchnl3",
-			 "referer": "https://gocast2.com/",
-             "isHost": "true"
-	              
-	                } ]
-	},{
-            "name": "SUPERSPORTS UK",
-            "image": "https://mygaming.co.za/news/wp-content/uploads/2016/05/SuperSport-2.jpg",
-            "info": "",
-            "stations": [{
-              "name": "Algunas compañias no lo reproducen.USAR VPN",
-                    "image": "https://resources.premierleague.com/photos/2020/09/10/74770e21-77e1-4a33-9206-4236897808de/New-Sky-Sports-logo-2020.png?width=1350",
-                     "url": "https://www.google.es/",
-               "isHost" : "true"
-	          },{
-			"name": "SUPER SPORTS LA LIGA ",
-			"image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga-live.png",
-           "url": "https://wecast.to/onionstream.php?stream=AdJwOQobu96J",
-          "referer" : "https://wecast.to/",
-             "isHost":"true" 
-           },{
-			"name": "SUPER SPORTS LA LIGA ",
-			"image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga-live.png",
-           "url": "https://gocast2.com/max.php?player=desktop&live=superlaliga",
-          "referer" : "https://gocast2.com/",
-             "isHost":"true" 
-           },     {
-                 "name": "SUPER SPORTS PREMIER",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/yvuloxza/premier-league-1-live.png?width=200",
-                               "url": "https://gocast2.com/max.php?player=desktop&live=superpremier",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                       }, {
-                    "name": "SUPERSPORTS FOOTBALL",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6-live.png?width=200",
-			   "url": "https://gocast2.com/max.php?player=desktop&live=superfotball",
-              "referer": "https://gocast2.com/",
-             "isHost": "true"
-                 }, {
-                 "name": "SUPERSPORTS GRANDSTAND",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/l0xffoec/grandstand-1-live.png?width=200",
-                              "url" : "https://gocast2.com/max.php?player=desktop&live=supergrandstand",
-			 "referer" : "https://noob4cast.com/",
-                    "isHost" : "true"
-                       }, {
-                 "name": "SUPERSPORTS VARIETY 1",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/kuqlfro4/variety-1-1.png?width=200",
-                              "url" : "https://gocast2.com/max.php?player=desktop&live=hdchnl6",
-			 "referer" : "https://gocast2.com/",
-                    "isHost" : "true"
-                       },{
-                    "name": "SUPERSPORTS VARIETY 2",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/u5njoe0e/variety-2-1.png?width=200",
-			  "url": "https://gocast2.com/max.php?player=desktop&live=hdchnl7",
-			"referer": "https://gocast2.com/",
-             "isHost": "true"
-	               }, {
-                    "name": "SUPERSPORTS VARIETY 3",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/2gipzsj5/variety-3.jpeg?width=200",
-			  "url": "https://gocast2.com/max.php?player=desktop&live=hdchnl8",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      },{
-                    "name": "SUPERSPORTS VARIETY 4",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/wq1enpv2/variety-4-1.png?width=200",
-			  "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysare",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      },{
-                    "name": "SUPERSPORTS ACTION",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/krybzs0y/action-1-live.png?width=200",
-			  "url": "https://gocast2.com/max.php?player=desktop&live=superactions",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      }, {
-                    "name": "SUPERSPORTS TENNIS",
-                    "image": "https://supersport-cms-prod.azureedge.net/media/3tgfanwj/tennis.png?width=200",
-			  "url": "https://gocast2.com/max.php?player=desktop&live=supertennis",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      },  {
-                    "name": "SUPERSPORTS MAXIMO",
-                    "image": "https://cdn.livesoccertv.com/images/channels/thumbnails/supersport-maximo.png",
-			  "url": "https://gocast2.com/max.php?player=desktop&live=supermeximo",
-			  "referer": "https://gocast2.com/",
-			"isHost": "true"
-                      } ]
-	},{
-	    "name": "BEIN SPORT",
-		"image": "https://upload.wikimedia.org/wikipedia/commons/archive/f/f6/20211218195727%21BeIN_Sports.png",
-		"info": "",
-		"stations": [{
-			               "name": "BEIN SPORT 1 ENGLISH",
-                     "image": "https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",
-                "url": "https://gocast2.com/embedcr.php?player=desktop&live=bein1en",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	              }, {
-		      "name": "BEIN SPORT 2 ENGLISH",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/wprkho1631279247.png",
-                "url": "https://gocast2.com/embedcr.php?player=desktop&live=bein2en",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	           }, {
-	            "name": "BEIN SPORT 3 ENGLISH",
-                     "image": "https://i.goalzz.com/?i=o%2Fh%2F1%2F215%2Fbein-sports-english-1.png",
-                "url": "https://gocast2.com/embedcr.php?player=desktop&live=bein3en",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	          }, {
-	            "name": "BEIN SPORTS 1 FR",
-                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
-               "url" : "https://gocast2.com/max.php?player=desktop&live=bein1extra",
-        "referer": "https://gocast2.com/",
-        			  "isHost" : "true"
-	          }, {
-	            
-	            "name": "BEIN SPORTS 2 FR",
-                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
-               "url" : "https://gocast2.com/max.php?player=desktop&live=bein2fr",
-        "referer": "https://gocast2.com/",
-        			  "isHost" : "true"
-	          }, {
-	            
-	            "name": "BEIN SPORTS 3 FR",
-                     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png",
-               "url" : "https://gocast2.com/max.php?player=desktop&live=bein3fr",
-        "referer": "https://gocast2.com/",
-        			  "isHost" : "true"
-	          }, {
-	              "name": "BEIN SPORTS 1 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png",
-                "url": "http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	           }, {
-	            "name": "BEIN SPORTS 1 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-1-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein1prem",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	           }, {
-	               "name": "BEIN SPORTS 2 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png",
-                "url": "http://62.182.82.104/L_2_PREMIUM/index.m3u8?token=test&v=697229347",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	            "name": "BEIN SPORTS 2 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein2prem",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	          }, {
-	              "name": "BEIN SPORTS 3 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-2-qa.png",
-                "url": "http://62.182.82.104/L_3_PREMIUM/index.m3u8?token=test&v=697229347",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-	          }, {
-	            "name": "BEIN SPORTS 3 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-premium-3-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein3prem",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	          }, {
-	            "name": "BEIN SPORT XTRA 1",
-                     "image": "https://i.goalzz.com/?i=o%2fh%2f1%2f895%2fbein-sports-xtra-1.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein1extra",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"
-	             }, {
-	                 
-	                 "name": "BEIN SPORTS 1 FR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein1fr",
-                "referer": "https://gocast2.com/",
-             "isHost": "true" 
-	             }, {
-	            "name": "BEIN SPORTS 1 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-1-qa-fr.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein1arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	            }, {
-	            "name": "BEIN SPORTS 2 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-2-qa-fr.png",
-               "url": "https://gocast2.com/max.php?player=desktop&live=bein2arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"   
-	        }, {
-	            "name": "BEIN SPORTS 3 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-3-qa-fr.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein3arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"    
-	      }, {
-	            "name": "BEIN SPORTS 4 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-4-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein4arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	       }, {
-	            "name": "BEIN SPORTS 5 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-5-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein5arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	       }, {
-	               "name": "BEIN SPORTS 6 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein6arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	       }, {
-	            "name": "BEIN SPORTS 7 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-7-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein7arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	       }, {
-             "name": "BEIN SPORTS 8 AR",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-8-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein8arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"  
-	       }, {
-             "name": "ARENASPORT 2 PREMIUM",
-                     "image": "https://www.lyngsat.com/logo/tv/bb/bein-sports-6-qa.png",
-                "url": "https://gocast2.com/max.php?player=desktop&live=bein6arab",
-                "referer": "https://gocast2.com/",
-             "isHost": "true"   
-	       } ]
-	},{
-		"name": "ARENASPORT",
-		"image": "https://mediadaily.biz/wp-content/uploads/2021/10/arena1-696x385.png",
-		"info": "",
-		"stations": [{
-	            "name": "ARENASPORT 1 PREMIUM",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/wmvrmi1643205486.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium134",
-                "referer": "https://maxsport.one/",
-             "isHost": "true"  
-	       }, {
-	            "name": "ARENASPORT 2 PREMIUM",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/l4y8gt1643205498.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium135",
-                "referer": "https://maxsport.one/",
-             "isHost": "true" 
-	       }, {
-	            "name": "ARENASPORT 3 PREMIUM",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/gtlulj1643205508.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium139",
-                "referer": "https://maxsport.one/",
-             "isHost": "true"  
-		
-	          }, {
-	            "name": "ARENASPORT 1 SR",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium429",
-                "referer": "https://streamservicehd.click/",
-             "isHost": "true"
-	             }, {
-	            "name": "ARENASPORT 2 SR ",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/m4cqz91643205540.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium429",
-                "referer": "https://streamservicehd.click/",
-             "isHost": "true"  
-	            }, {
-	            "name": "ARENASPORT 3 SR",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/yjqg7l1643205550.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium429",
-                "referer": "https://streamservicehd.click/",
-             "isHost": "true"  
-	        }, {
-	            "name": "ARENASPORT 1 CR",
-                     "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/2v005r1643205531.png",
-                "url": "https://streamservicehd.click/maxsport.php?id=premium432",
-                "referer": "https://streamservicehd.click/",
-             "isHost": "true"  
-	      }, {
-	            "name": "SKY SPORTS MOTOGP",
-                     "image": "https://www.thesportsdb.com/images/media/tvlogo/693fja1595133458.png",
-                "url": "https://utopianwilderness.com/embed/d9g5w8sf900",
-                "referer": "https://starlive.xyz/",
-             "isHost": "true"  
-	      
-			  }]
-	},{
-            "name": "SPORTV PORTUGAL",
-            "image": "https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png",
-            "info": "",
-            "stations": [{
-              "name": "Sport TV 1 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/urqtvs1436898824.png",
-		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-		    "name": "Sport TV 1 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/urqtvs1436898824.png",
-		 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}, {
-		     "name": "Sport TV 2 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/uuvrpw1436898843.png",
-		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-             "name": "Sport TV 2 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/uuvrpw1436898843.png",
-			 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-          }, {
-               "name": "Sport TV 3 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/twyypw1436898859.png",
-		 "url" :  "https://unbiasedsenseevent.com/embed/k2szvuyqaq8a44x",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-             "name": "Sport TV 3 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/twyypw1436898859.png",
-			 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-          }, {
-              "name": "Sport TV 4 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png",
-			  "url" :  "https://unbiasedsenseevent.com/embed/lsdcbyzutk9g9",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-                }, {
-                     "name": "Sport TV 4 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/qypxry1470408244.png",
-		 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}, {
-              "name": "Sport TV 5 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/xvxrws1436898900.png",
-			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-			  "name": "Sport TV 5 HD",
-			"image": "https://www.thesportsdb.com/images/media/tvlogo/xvxrws1436898900.png",
-		 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}, {
-		    "name": "Sport TV 6 HD",
-			"image": "https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png",
-			 "url" :  "https://unbiasedsenseevent.com/embed/kq68lxi2vab",
-		"referer" : "https://buzztv.futbol/",
-			 "isHost":"true"
-		}, {
-			  "name": "Sport TV 6 HD",
-			"image": "https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png",
-		 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		}, {
-		     "name": "Sport TV +",
-			"image": "https://1.bp.blogspot.com/-5VEMXsL8q9Y/WT2FMruoncI/AAAAAAAAGhk/1RBFbRfw4m4CdlwfXpX1jxSkdYCu3w9XQCLcB/s1600/sport_tv_pt.png",
-			 "url" :  "http://213.13.19.35/shls/LIVE$SPORTTV_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-		"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-		
-                }]
-                      },  {
-            "name": "ELEVEN SPORTS PORTUGAL",
-            "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Eleven_Sports.png",
-            "info": "",
-            "stations": [{
-                    "name": "ELEVEN SPORTS 1 HD+",
-                    "image": "https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",
-			"url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                },{
-			"name": "ELEVEN SPORTS 1 HD",
-			"image": "https://tv-radio-web.com/wp-content/uploads/2020/11/eleven-sports-1.png",
-			"url": "https://unbiasedsenseevent.com/embed/3grzkavvjv",
-			"referer" : "https://elixx.xyz/",
-			"isHost": "true"
-		},{
-                       "name": "ELEVEN SPORTS 2 HD",
-                    "image": "https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",
-                			"url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                },{
-                       "name": "ELEVEN SPORTS 2 HD",
-                    "image": "https://www.lyngsat.com/logo/tv/ee/eleven-sports-2-portugal-uk-pt.png",
-                "url": "https://unbiasedsenseevent.com/embed/1b4bap2y3942",
-	        "referer" : "https://elixx.xyz/",
-                  "isHost": "true"
-                },{ 
-                 "name": "ELEVEN SPORTS 3 HD",
-                    "image": "https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",
-                    			"url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_3_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                },{
-                       "name": "ELEVEN SPORTS 3 HD",
-                    "image": "https://www.lyngsat.com/logo/tv/ee/eleven-sports-3-portugal-uk-pt.png",
-                "url": "https://unbiasedsenseevent.com/embed/8olk4e",
-	        "referer" : "https://elixx.xyz/",
-                  "isHost": "true"
-                },{
-                       "name": "ELEVEN SPORTS 4 HD",
-                    "image": "https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png",
-                "url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_4_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                },{
-                       "name": "ELEVEN SPORTS 5 HD",
-                    "image": "https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",
-                "url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_5_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                },{
-                       "name": "ELEVEN SPORTS 6 HD",
-                    "image": "https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png",
-                "url": "http://213.13.19.35/shls/LIVE$Eleven_Sports_6_HD/index.m3u8?device=ANDROID_Live&start=LIVE&end=END",
-			"userAgent" : "REDLINECLIENT_DM_650HD_PRO V3"
-                }]
-                    },{
-                           "name": "CANAL + FRANCIA",
-            "image": "https://static.weeb.tv/logos/285f5ec1e222cbb7f41469abfb8b99d4.jpg",
-            "info": "",
-            "stations": [{
-                    "name": "CANAL+ SPORT 1 HD ",
-                    "image": "https://www.thesportsdb.com/images/media/tvlogo/tvvppy1472817016.png",
-                		  "url": "https://wecast.to/maxsport.php?stream=77qlYhkvlXo",
-			"referer": "https://wecast.to/",
-             "isHost": "true"
-                },{
-                       "name": "CANAL+ SPORT 2 HD",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/at0cjj1649340562.png",
-                "url": "https://wecast.to/maxsport.php?stream=iI0JqKzFndso",
-	        "referer" : "https://wecast.to/",
-                  "isHost": "true"
-                },{ 
-                 "name": "CANAL + SPORT 3 HD",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/fjgbyx1649340572.png",
-                    "url": "https://wecast.to/maxsport.php?stream=qgrgFjuER8P7",
-			"referer": "https://wecast.to/",
-             "isHost": "true"
-                    },{ 
-                 "name": "CANAL + SPORT 4 HD",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/6e7yk91649340581.png",
-              "url": "https://wecast.to/maxsport.php?stream=h3EVt1gISRl7",
-              "referer" : "https://wecast.to/",
-            "isHost":"true"
-                    },{ 
-                 "name": "CANAL + SPORT 5 HD",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/3hc66o1649340881.png",
-              "url": "https://leetcdn.cc/embed.php?id=9",
-                  "referer" : "https://wecast.to/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 2 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
-              "url": "https://strayindicate.net/embed/clp38tyr7pqyd6j",
-              "referer" : "https://leet365.cc/",
-                         "isHost" : "true"
-                     },{
-                     "name": "RMC SPORT 3 HD",
-                    "image": "https://www.thesportsdb.com/images/media/channel/tvlogo/fjgbyx1649340572.png",
-                 "url": "https://tvhd.capshd.xyz/online/canal490.php",
-                  "referer" : "https://www.daddylive.pro/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 4 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/141.png",
-                 "url": "https://allsport.icu/tv1/ch22.php",
-			 "isHost": "true"
-			 },{
-                     "name": "RMC SPORT 5 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/150.png",
-                 "url": "https://wecast.to/onionstream.php?stream=T4SdU4VsBWnd",
-                  "referer" : "https://wecast.to/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 5 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/151.png",
-                 "url": "https://www.tutelehd.net/embed2.php?&a=4674",
-                 "referer" : "https://www.tutelehd.net/",
-			 "isHost": "true"
-                      }]
-                      },  {
-            "name": "RMC SPORT FRANCIA",
-            "image": "https://blog-iptv.com/wp-content/uploads/2019/01/1280px-Logo_RMC_Sport_2018.svg_.png",
-            "info": "",
-            "stations": [{
-                    "name": "RMC SPORT 1 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/130.png",
-                		  "url": "https://parsimoniousinvincible.net/embed/91qmzwr",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-                },{
-                       "name": "RMC SPORT 1 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/130.png",
-                "url": "https://leetcdn.cc/embed.php?id=4",
-	        "referer" : "https://leet365.cc/",
-                  "isHost": "true"
-                },{ 
-                 "name": "RMC SPORT 1 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/130.png",
-                    "url": "https://strayindicate.net/embed/f2wyt4a",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-                    },{ 
-                 "name": "RMC SPORT 2 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
-              "url": "https://parsimoniousinvincible.net/embed/n2u9e0v",
-              "referer" : "https://leet365.cc/",
-            "isHost":"true"
-                    },{ 
-                 "name": "RMC SPORT 2 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
-              "url": "https://leetcdn.cc/embed.php?id=9",
-                  "referer" : "https://leet365.cc/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 2 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/131.png",
-              "url": "https://strayindicate.net/embed/clp38tyr7pqyd6j",
-              "referer" : "https://leet365.cc/",
-                         "isHost" : "true"
-                     },{
-                     "name": "RMC SPORT 3 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/132.png",
-                 "url": "https://tvhd.capshd.xyz/online/canal490.php",
-                  "referer" : "https://www.daddylive.pro/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 4 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/141.png",
-                 "url": "https://allsport.icu/tv1/ch22.php",
-			 "isHost": "true"
-			 },{
-                     "name": "RMC SPORT 5 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/150.png",
-                 "url": "https://voraciousglove.net/embed/dp4tigbdvjxr4l",
-                  "referer" : "https://leet365.cc/",
-			 "isHost": "true"
-                      },{
-                     "name": "RMC SPORT 5 HD",
-                    "image": "https://cdn.tv-programme.com/pic/chaines/151.png",
-                 "url": "https://tvhd.capshd.xyz/online/canal488.php",
-                  "referer" : "https://www.daddylive.pro/",
-			 "isHost": "true"
-                  }]
-      
-	}, {
-		"name": "Bundesliga",
-		"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-		"info": "",
-		"stations": [{
-			 "name": "BT Sport-1",
-			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
-			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-		}, {
-              "name": "BT Sport-2",
-			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
-		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-          }, {
-              "name": "BT Sport-3",
-			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-		 }, {
-			"name": "(Vamos)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			   "url": "https://parsimoniousinvincible.net/embed/rq4g6",
-			 "referer":"https://leet365.cc/",
-                    "isHost":"true"
-            }, {
-			"name": "(Vamos)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			  "url": "https://parsimoniousinvincible.net/embed/rq4g6",
-			"referer": "https://macron.xyz/",
-             "isHost": "true"
-            }, {
-			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-		}, {
-			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://deliriousholistic.net/embed/04qv1f7qpax",
-			"referer": "https://bahiadeportes.com/",
-			"isHost" : "true"
-			 }, {
-			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "https://parsimoniousinvincible.net/embed/lbr3etluqsw",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-		}, {
-			"name": "(M-Campeones)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://deliriousholistic.net/embed/04qv1f7qpax",
-			"referer": "https://bahiadeportes.com/",
-			"isHost" : "true" 
-	          }, {
-			"name": "(M-Campeones 3)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "https://parsimoniousinvincible.net/embed/gagr8b",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-		}, {
-			"name": "(M-Campeones 3)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			 "url": "https://grosseaffiche.com/footy.php?player=desktop&live=ufeed66",
-			"referer": "https://leet365.cc/",
-			"isHost" : "true"
-	        }, {
-			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-        "url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-		}, {
-			"name": "(M-Campeones 2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://parsimoniousinvincible.net/embed/cmms5rk1",
-            "referer" : "https://macron.xyz/",
-             "isHost": "true"
-             }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-         "url": "https://cdn122.com/embed/sxdic6vrfzfxc",
-			"referer": "https://l1l1.to/",
-             "isHost": "true"
-          }, {
-			"name": "(ESPN2)",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			  "url": "https://sportkart1.xyz/tv/scplayer-150.php",
-                    "referer" : "https://maxsport.one/",
-                     "isHost" : "true"
-          }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://unbiasedsenseevent.com/embed/7193roxnt",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"
-	   }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://unbiasedsenseevent.com/embed/ya7um8guzz4",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"     
-          }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://cdn122.com/embed/sxdic6vrfzfxc",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"
-           }, {
-			"name": "",
-			"image": "https://4.bp.blogspot.com/-Bph7tPcIwEc/V8WjTKc3edI/AAAAAAABC9o/9IVKaCsy6y0gDAhZ_XxIl2OUvdDfkmd6ACLcB/s280/bundesliga.jpg",
-			"url": "https://cdn122.com/embed/h8zgkrg",
-            "referer" : "https://l1l1.to/",
-             "isHost": "true"
-		}]
-	}, {
-	    
-         
-		"name": "Premier",
-		"image": "https://i.ibb.co/QJX74Vq/premier1.jpg",
-		"info": "",
-		"stations": [{
-			 "name": "BT Sport-1",
-			"image": "https://i.ibb.co/THBmVMf/BT-Sport-1.gif",
-			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp1",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-		}, {
-              "name": "BT Sport-2",
-			"image": "https://i.ibb.co/SNTbM4S/BT-Sport-2-HD.jpg",
-		"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp2",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-          }, {
-              "name": "BT Sport-3",
-			"image": "https://ia800809.us.archive.org/7/items/BtSport3Hd/bt%20sport%203%20hd.png",
-			"url":"https://ragnaru.net/embed.php?player=desktop&live=bbtsp3",
-            "referer" : "https://cdnz.one/",
-            "isHost" : "true"
-            }, {
-			"name": "(DAZ1)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-			"url": "https://maxsport.one/dazn1.php",
-             "isHost": "true"
-	      }, {
-			"name": "(DAZN 1)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
-     "url": "https://deliriousholistic.net/embed/53xpengog",
-              "referer": "https://starlive.xyz/",
-             "isHost": "true" 
-            }, {
-			"name": "(DAZN2)",
-			"image": "https://s.hs-data.com/picmon/79/2ao7_4fZbh_l.jpg",
- 			 "url": "https://parsimoniousinvincible.net/embed/xmr0xxbbmzod",
-			"referer": "https://leet365.cc/",
-             "isHost": "true"
-           
-		}]
-	
-	}]
-}
-
+  #EXTM3U
+#EXTINF:-1,ES: AMC HD
+http://492711360394321103.playhosts.xyz:80/play/vi08220/2281657605/321103.ts
+#EXTINF:-1,ES: #0 FHD
+http://492711360394321068.playhosts.xyz:80/play/vi08220/2281657605/321068.ts
+#EXTINF:-1,ES: #0 HD
+http://492711360394321069.playhosts.xyz:80/play/vi08220/2281657605/321069.ts
+#EXTINF:-1,ES: #VAMOS FHD
+http://492711360394321071.playhosts.xyz:80/play/vi08220/2281657605/321071.ts
+#EXTINF:-1,ES: #VAMOS HD
+http://492711360394321072.playhosts.xyz:80/play/vi08220/2281657605/321072.ts
+#EXTINF:-1,ES: ETB 1 HD
+http://492711360394165332.playhosts.xyz:80/play/vi08220/2281657605/165332.ts
+#EXTINF:-1,ES: ETB 2 HD
+http://492711360394165333.playhosts.xyz:80/play/vi08220/2281657605/165333.ts
+#EXTINF:-1,ES: EUROSPORT 1 FHD
+http://492711360394290348.playhosts.xyz:80/play/vi08220/2281657605/290348.ts
+#EXTINF:-1,ES: EUROSPORT 1 HD
+http://492711360394290349.playhosts.xyz:80/play/vi08220/2281657605/290349.ts
+#EXTINF:-1,ES: EUROSPORT 2 FHD
+http://492711360394290351.playhosts.xyz:80/play/vi08220/2281657605/290351.ts
+#EXTINF:-1,ES: EUROSPORT 2 HD
+http://492711360394290352.playhosts.xyz:80/play/vi08220/2281657605/290352.ts
+#EXTINF:-1,ES: EUROSPORT 4 HD
+http://492711360394290354.playhosts.xyz:80/play/vi08220/2281657605/290354.ts
+#EXTINF:-1,ES: EUROSPORT 5 HD
+http://492711360394290355.playhosts.xyz:80/play/vi08220/2281657605/290355.ts
+#EXTINF:-1,ES: EUROSPORT 6 HD
+http://492711360394290356.playhosts.xyz:80/play/vi08220/2281657605/290356.ts
+#EXTINF:-1,ES: EUROSPORT 8 HD
+http://492711360394290357.playhosts.xyz:80/play/vi08220/2281657605/290357.ts
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 SD
+http://492711360394165257.playhosts.xyz:80/play/vi08220/2281657605/165257.ts
+#EXTINF:-1,ES: ESPN DEPORTES HD
+http://492711360394165467.playhosts.xyz:80/play/vi08220/2281657605/165467.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES FHD
+http://492711360394246282.playhosts.xyz:80/play/vi08220/2281657605/246282.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES HD
+http://492711360394165358.playhosts.xyz:80/play/vi08220/2281657605/165358.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES SD
+http://492711360394165359.playhosts.xyz:80/play/vi08220/2281657605/165359.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES FHD HEVC
+http://492711360394262412.playhosts.xyz:80/play/vi08220/2281657605/262412.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 4K
+http://492711360394282468.playhosts.xyz:80/play/vi08220/2281657605/282468.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2 FHD
+http://492711360394165365.playhosts.xyz:80/play/vi08220/2281657605/165365.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2 HD
+http://492711360394282469.playhosts.xyz:80/play/vi08220/2281657605/282469.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2 SD
+http://492711360394282458.playhosts.xyz:80/play/vi08220/2281657605/282458.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 2 SD EXTRA
+http://492711360394282459.playhosts.xyz:80/play/vi08220/2281657605/282459.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 3 HD
+http://492711360394282470.playhosts.xyz:80/play/vi08220/2281657605/282470.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://492711360394282471.playhosts.xyz:80/play/vi08220/2281657605/282471.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 4 HD
+http://492711360394282472.playhosts.xyz:80/play/vi08220/2281657605/282472.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://492711360394282473.playhosts.xyz:80/play/vi08220/2281657605/282473.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 5 HD
+http://492711360394282460.playhosts.xyz:80/play/vi08220/2281657605/282460.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://492711360394282461.playhosts.xyz:80/play/vi08220/2281657605/282461.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 6 HD
+http://492711360394282462.playhosts.xyz:80/play/vi08220/2281657605/282462.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://492711360394282463.playhosts.xyz:80/play/vi08220/2281657605/282463.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 7 HD
+http://492711360394282464.playhosts.xyz:80/play/vi08220/2281657605/282464.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://492711360394282465.playhosts.xyz:80/play/vi08220/2281657605/282465.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 8 HD
+http://492711360394282466.playhosts.xyz:80/play/vi08220/2281657605/282466.ts
+#EXTINF:-1,ES: LIGA DE CAMPEONES 8 HD (OP1)
+http://492711360394282467.playhosts.xyz:80/play/vi08220/2281657605/282467.ts
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 FHD
+http://492711360394165418.playhosts.xyz:80/play/vi08220/2281657605/165418.ts
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 HD
+http://492711360394165419.playhosts.xyz:80/play/vi08220/2281657605/165419.ts
+#EXTINF:-1,ES: BARCA TV FHD
+http://492711360394165442.playhosts.xyz:80/play/vi08220/2281657605/165442.ts
+#EXTINF:-1,ES: GOL TV FHD
+http://492711360394165443.playhosts.xyz:80/play/vi08220/2281657605/165443.ts
+#EXTINF:-1,ES: GOL TV HD
+http://492711360394165449.playhosts.xyz:80/play/vi08220/2281657605/165449.ts
+#EXTINF:-1,ES: M LALIGA FHD
+http://492711360394165385.playhosts.xyz:80/play/vi08220/2281657605/165385.ts
+#EXTINF:-1,ES: M LALIGA HD
+http://492711360394165392.playhosts.xyz:80/play/vi08220/2281657605/165392.ts
+#EXTINF:-1,ES: M LALIGA SD
+http://492711360394165393.playhosts.xyz:80/play/vi08220/2281657605/165393.ts
+#EXTINF:-1,ES: LA LIGA FHD (H 265)
+http://492711360394262413.playhosts.xyz:80/play/vi08220/2281657605/262413.ts
+#EXTINF:-1,ES: M LALIGA MULTI 1 HD
+http://492711360394165396.playhosts.xyz:80/play/vi08220/2281657605/165396.ts
+#EXTINF:-1,ES: M LALIGA MULTI 2 HD
+http://492711360394165398.playhosts.xyz:80/play/vi08220/2281657605/165398.ts
+#EXTINF:-1,ES: M LALIGA MULTI 3 HD
+http://492711360394165400.playhosts.xyz:80/play/vi08220/2281657605/165400.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 FHD
+http://492711360394165457.playhosts.xyz:80/play/vi08220/2281657605/165457.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 SD
+http://492711360394165459.playhosts.xyz:80/play/vi08220/2281657605/165459.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 HD
+http://492711360394165460.playhosts.xyz:80/play/vi08220/2281657605/165460.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES FHD
+http://492711360394165454.playhosts.xyz:80/play/vi08220/2281657605/165454.ts
+#EXTINF:-1,ES: MULTIDEPORTE SD
+http://492711360394165446.playhosts.xyz:80/play/vi08220/2281657605/165446.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 1 FHD
+http://492711360394228384.playhosts.xyz:80/play/vi08220/2281657605/228384.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 1 HD
+http://492711360394228385.playhosts.xyz:80/play/vi08220/2281657605/228385.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 2 HD
+http://492711360394228388.playhosts.xyz:80/play/vi08220/2281657605/228388.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 2 SD
+http://492711360394228389.playhosts.xyz:80/play/vi08220/2281657605/228389.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 1 FHD (H265)
+http://492711360394228390.playhosts.xyz:80/play/vi08220/2281657605/228390.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 2 FHD (H265)
+http://492711360394228391.playhosts.xyz:80/play/vi08220/2281657605/228391.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 3 FHD (H265)
+http://492711360394228392.playhosts.xyz:80/play/vi08220/2281657605/228392.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 3 FHD
+http://492711360394228393.playhosts.xyz:80/play/vi08220/2281657605/228393.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 3 HD
+http://492711360394228394.playhosts.xyz:80/play/vi08220/2281657605/228394.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 3 SD
+http://492711360394228395.playhosts.xyz:80/play/vi08220/2281657605/228395.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 4 FHD (H265)
+http://492711360394228396.playhosts.xyz:80/play/vi08220/2281657605/228396.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 4 FHD
+http://492711360394228397.playhosts.xyz:80/play/vi08220/2281657605/228397.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 4 HD
+http://492711360394228398.playhosts.xyz:80/play/vi08220/2281657605/228398.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 4 SD
+http://492711360394228399.playhosts.xyz:80/play/vi08220/2281657605/228399.ts
+#EXTINF:-1,ES: M LALIGA MULTI 4 SD
+http://492711360394237729.playhosts.xyz:80/play/vi08220/2281657605/237729.ts
+#EXTINF:-1,ES: M LALIGA MULTI 5 SD
+http://492711360394237730.playhosts.xyz:80/play/vi08220/2281657605/237730.ts
+#EXTINF:-1,ES: M LALIGA MULTI 4 FHD
+http://492711360394237731.playhosts.xyz:80/play/vi08220/2281657605/237731.ts
+#EXTINF:-1,ES: M LALIGA MULTI 4 HD
+http://492711360394237732.playhosts.xyz:80/play/vi08220/2281657605/237732.ts
+#EXTINF:-1,ES: M LALIGA MULTI 5 FHD
+http://492711360394237733.playhosts.xyz:80/play/vi08220/2281657605/237733.ts
+#EXTINF:-1,ES: M LALIGA MULTI 5 HD
+http://492711360394237734.playhosts.xyz:80/play/vi08220/2281657605/237734.ts
+#EXTINF:-1,ES: M LALIGA MULTI 6 SD
+http://492711360394237735.playhosts.xyz:80/play/vi08220/2281657605/237735.ts
+#EXTINF:-1,ES: M LALIGA MULTI 7 SD
+http://492711360394237736.playhosts.xyz:80/play/vi08220/2281657605/237736.ts
+#EXTINF:-1,ES: M LALIGA MULTI 8 SD
+http://492711360394237737.playhosts.xyz:80/play/vi08220/2281657605/237737.ts
+#EXTINF:-1,ES: M LALIGA MULTI 9 SD
+http://492711360394237738.playhosts.xyz:80/play/vi08220/2281657605/237738.ts
+#EXTINF:-1,ES: M LALIGA MULTI 10 SD
+http://492711360394237739.playhosts.xyz:80/play/vi08220/2281657605/237739.ts
+#EXTINF:-1,ES: #VAMOS FHD HEVC
+http://492711360394262409.playhosts.xyz:80/play/vi08220/2281657605/262409.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 1 SD
+http://492711360394267267.playhosts.xyz:80/play/vi08220/2281657605/267267.ts
+#EXTINF:-1,ES: MOVISTAR DAZN 2 FHD
+http://492711360394267268.playhosts.xyz:80/play/vi08220/2281657605/267268.ts
+#EXTINF:-1,ES: ALQUILER 1 FHD
+http://492711360394267808.playhosts.xyz:80/play/vi08220/2281657605/267808.ts
+#EXTINF:-1,ES: ALQUILER 2 FHD
+http://492711360394267809.playhosts.xyz:80/play/vi08220/2281657605/267809.ts
+#EXTINF:-1,ES: ALQUILER 3 FHD
+http://492711360394267810.playhosts.xyz:80/play/vi08220/2281657605/267810.ts
+#EXTINF:-1,ES: ALQUILER 4 FHD
+http://492711360394267811.playhosts.xyz:80/play/vi08220/2281657605/267811.ts
+#EXTINF:-1,ES: ALQUILER 5 FHD
+http://492711360394267812.playhosts.xyz:80/play/vi08220/2281657605/267812.ts
+#EXTINF:-1,ES: ALQUILER 10 FHD
+http://492711360394267837.playhosts.xyz:80/play/vi08220/2281657605/267837.ts
+#EXTINF:-1,ES: ALQUILER 5 HD
+http://492711360394267841.playhosts.xyz:80/play/vi08220/2281657605/267841.ts
+#EXTINF:-1,ES: ALQUILER 6 HD
+http://492711360394267842.playhosts.xyz:80/play/vi08220/2281657605/267842.ts
+#EXTINF:-1,ES: ALQUILER 7 FHD
+http://492711360394267844.playhosts.xyz:80/play/vi08220/2281657605/267844.ts
+#EXTINF:-1,ES: ALQUILER 7 HD
+http://492711360394267845.playhosts.xyz:80/play/vi08220/2281657605/267845.ts
+#EXTINF:-1,ES: ALQUILER 9 FHD
+http://492711360394267848.playhosts.xyz:80/play/vi08220/2281657605/267848.ts
+#EXTINF:-1,ES: LALIGA TV BAR FHD
+http://492711360394268042.playhosts.xyz:80/play/vi08220/2281657605/268042.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES HD
+http://492711360394268070.playhosts.xyz:80/play/vi08220/2281657605/268070.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES SD
+http://492711360394268072.playhosts.xyz:80/play/vi08220/2281657605/268072.ts
+#EXTINF:-1,ES: MOVISTAR GOLF FHD
+http://492711360394268094.playhosts.xyz:80/play/vi08220/2281657605/268094.ts
+#EXTINF:-1,ES: MOVISTAR GOLF HD
+http://492711360394268095.playhosts.xyz:80/play/vi08220/2281657605/268095.ts
+#EXTINF:-1,ES: MOVISTAR GOLF SD
+http://492711360394268096.playhosts.xyz:80/play/vi08220/2281657605/268096.ts
+#EXTINF:-1,ES: ALQUILER 3 HD
+http://492711360394277422.playhosts.xyz:80/play/vi08220/2281657605/277422.ts
+#EXTINF:-1,ES: ALQUILER 4 HD
+http://492711360394277423.playhosts.xyz:80/play/vi08220/2281657605/277423.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 3 HD
+http://492711360394277443.playhosts.xyz:80/play/vi08220/2281657605/277443.ts
+#EXTINF:-1,ES: ALQUILER 11 HD
+http://492711360394277781.playhosts.xyz:80/play/vi08220/2281657605/277781.ts
+#EXTINF:-1,ES: ALQUILER 12 FHD
+http://492711360394277782.playhosts.xyz:80/play/vi08220/2281657605/277782.ts
+#EXTINF:-1,ES: ALQUILER 8 FHD
+http://492711360394277789.playhosts.xyz:80/play/vi08220/2281657605/277789.ts
+#EXTINF:-1,ES: ALQUILER 8 HD
+http://492711360394277790.playhosts.xyz:80/play/vi08220/2281657605/277790.ts
+#EXTINF:-1,ES: LALIGA TV BAR HD
+http://492711360394165407.playhosts.xyz:80/play/vi08220/2281657605/165407.ts
+#EXTINF:-1,ES: TAQUILLA 1 HD
+http://492711360394279332.playhosts.xyz:80/play/vi08220/2281657605/279332.ts
+#EXTINF:-1,ES: TAQUILLA 10 HD
+http://492711360394279333.playhosts.xyz:80/play/vi08220/2281657605/279333.ts
+#EXTINF:-1,ES: TAQUILLA 2 HD
+http://492711360394279334.playhosts.xyz:80/play/vi08220/2281657605/279334.ts
+#EXTINF:-1,ES: TAQUILLA 3 HD
+http://492711360394279335.playhosts.xyz:80/play/vi08220/2281657605/279335.ts
+#EXTINF:-1,ES: TAQUILLA 4 HD
+http://492711360394279336.playhosts.xyz:80/play/vi08220/2281657605/279336.ts
+#EXTINF:-1,ES: TAQUILLA 5 HD
+http://492711360394279337.playhosts.xyz:80/play/vi08220/2281657605/279337.ts
+#EXTINF:-1,ES: TAQUILLA 6 HD
+http://492711360394279338.playhosts.xyz:80/play/vi08220/2281657605/279338.ts
+#EXTINF:-1,ES: TAQUILLA 7 HD
+http://492711360394279339.playhosts.xyz:80/play/vi08220/2281657605/279339.ts
+#EXTINF:-1,ES: TAQUILLA 8 HD
+http://492711360394279340.playhosts.xyz:80/play/vi08220/2281657605/279340.ts
+#EXTINF:-1,ES: TAQUILLA 1 FHD
+http://492711360394279375.playhosts.xyz:80/play/vi08220/2281657605/279375.ts
+#EXTINF:-1,ES: TAQUILLA 4 FHD
+http://492711360394279377.playhosts.xyz:80/play/vi08220/2281657605/279377.ts
+#EXTINF:-1,ES: TAQUILLA 9 HD
+http://492711360394279378.playhosts.xyz:80/play/vi08220/2281657605/279378.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 6 SD
+http://492711360394282886.playhosts.xyz:80/play/vi08220/2281657605/282886.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 7 SD
+http://492711360394282887.playhosts.xyz:80/play/vi08220/2281657605/282887.ts
+#EXTINF:-1,ES: ALQUILER 9 HD
+http://492711360394283122.playhosts.xyz:80/play/vi08220/2281657605/283122.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 5 HD
+http://492711360394287310.playhosts.xyz:80/play/vi08220/2281657605/287310.ts
+#EXTINF:-1,ES: LA 8 SORIA HD
+http://492711360394287706.playhosts.xyz:80/play/vi08220/2281657605/287706.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 1 HD
+http://492711360394290673.playhosts.xyz:80/play/vi08220/2281657605/290673.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 4 HD
+http://492711360394290674.playhosts.xyz:80/play/vi08220/2281657605/290674.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 5 SD
+http://492711360394290675.playhosts.xyz:80/play/vi08220/2281657605/290675.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 2 FHD
+http://492711360394290759.playhosts.xyz:80/play/vi08220/2281657605/290759.ts
+#EXTINF:-1,ES: EUROSPORT 7 HD
+http://492711360394290783.playhosts.xyz:80/play/vi08220/2281657605/290783.ts
+#EXTINF:-1,ES: EUROSPORT 9 HD
+http://492711360394290784.playhosts.xyz:80/play/vi08220/2281657605/290784.ts
+#EXTINF:-1,ES: M.DEPORTES FHD
+http://492711360394304696.playhosts.xyz:80/play/vi08220/2281657605/304696.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 6 HD
+http://492711360394304714.playhosts.xyz:80/play/vi08220/2281657605/304714.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES 7 HD
+http://492711360394304715.playhosts.xyz:80/play/vi08220/2281657605/304715.ts
+#EXTINF:-1,ES: MOVISTAR FORMULA 1 HEVC
+http://492711360394318564.playhosts.xyz:80/play/vi08220/2281657605/318564.ts
+#EXTINF:-1,ES: MOVISTAR DEPORTES FHD HEVC
+http://492711360394320074.playhosts.xyz:80/play/vi08220/2281657605/320074.ts
+#EXTINF:-1,ES: DAZN LALIGA 2 HD
+http://492711360394320779.playhosts.xyz:80/play/vi08220/2281657605/320779.ts
+#EXTINF:-1,ES: DAZN LALIGA 2 FHD
+http://492711360394320780.playhosts.xyz:80/play/vi08220/2281657605/320780.ts
+#EXTINF:-1,ES: DAZN LALIGA HD
+http://492711360394320781.playhosts.xyz:80/play/vi08220/2281657605/320781.ts
+#EXTINF:-1,ES: DAZN LALIGA FHD
+http://492711360394320782.playhosts.xyz:80/play/vi08220/2281657605/320782.ts
+#EXTINF:-1,ES: M LALIGA SMARTBANK FHD
+http://492711360394320785.playhosts.xyz:80/play/vi08220/2281657605/320785.ts
+#EXTINF:-1,ES: M LALIGA SMARTBANK HD
+http://492711360394320786.playhosts.xyz:80/play/vi08220/2281657605/320786.ts
+#EXTINF:-1,ES: M LALIGA SMARTBANK SD
+http://492711360394320789.playhosts.xyz:80/play/vi08220/2281657605/320789.ts
+#EXTINF:-1,ES: M LALIGA SMARTBANK 1 HD
+http://492711360394320790.playhosts.xyz:80/play/vi08220/2281657605/320790.ts
+#EXTINF:-1,ES:DAZN LALIGA SD
+http://492711360394320792.playhosts.xyz:80/play/vi08220/2281657605/320792.ts
+#EXTINF:-1,ES: AXN WHITE FHD
+http://492711360394321115.playhosts.xyz:80/play/vi08220/2281657605/321115.ts
+#EXTINF:-1,ES: AXN WHITE HD
+http://492711360394321116.playhosts.xyz:80/play/vi08220/2281657605/321116.ts
+#EXTINF:-1,ES: AXN FHD
+http://492711360394321118.playhosts.xyz:80/play/vi08220/2281657605/321118.ts
+#EXTINF:-1,ES: AXN HD
+http://492711360394321119.playhosts.xyz:80/play/vi08220/2281657605/321119.ts
+#EXTINF:-1,ES: CALLE 13 FHD
+http://492711360394321138.playhosts.xyz:80/play/vi08220/2281657605/321138.ts
+#EXTINF:-1,ES: CALLE 13 HD
+http://492711360394321139.playhosts.xyz:80/play/vi08220/2281657605/321139.ts
+#EXTINF:-1,ES: CANAL COCINA FHD
+http://492711360394321147.playhosts.xyz:80/play/vi08220/2281657605/321147.ts
+#EXTINF:-1,ES: CANAL COCINA HD
+http://492711360394321148.playhosts.xyz:80/play/vi08220/2281657605/321148.ts
+#EXTINF:-1,ES: CANAL DARK FHD
+http://492711360394321150.playhosts.xyz:80/play/vi08220/2281657605/321150.ts
+#EXTINF:-1,ES: CANAL DARK HD
+http://492711360394321151.playhosts.xyz:80/play/vi08220/2281657605/321151.ts
+#EXTINF:-1,ES: CANAL DARK SD
+http://492711360394321152.playhosts.xyz:80/play/vi08220/2281657605/321152.ts
+#EXTINF:-1,ES: CANAL DECASA HD
+http://492711360394321153.playhosts.xyz:80/play/vi08220/2281657605/321153.ts
+#EXTINF:-1,ES: CANAL HISTORIA FHD
+http://492711360394321156.playhosts.xyz:80/play/vi08220/2281657605/321156.ts
+#EXTINF:-1,ES: CANAL HISTORIA HD
+http://492711360394321157.playhosts.xyz:80/play/vi08220/2281657605/321157.ts
+#EXTINF:-1,ES: CANAL HISTORIA SD
+http://492711360394321158.playhosts.xyz:80/play/vi08220/2281657605/321158.ts
+#EXTINF:-1,ES: CANAL HOLLYWOOD HD
+http://492711360394321159.playhosts.xyz:80/play/vi08220/2281657605/321159.ts
+#EXTINF:-1,ES: CANAL ODISEA HD
+http://492711360394321161.playhosts.xyz:80/play/vi08220/2281657605/321161.ts
+#EXTINF:-1,ES: CAZA & PESCA HD
+http://492711360394321167.playhosts.xyz:80/play/vi08220/2281657605/321167.ts
+#EXTINF:-1,ES: CAZA Y PESCA FHD
+http://492711360394321168.playhosts.xyz:80/play/vi08220/2281657605/321168.ts
+#EXTINF:-1,ES: CAZA Y PESCA HD
+http://492711360394321169.playhosts.xyz:80/play/vi08220/2281657605/321169.ts
+#EXTINF:-1,ES: CAZAVISION FHD
+http://492711360394321171.playhosts.xyz:80/play/vi08220/2281657605/321171.ts
+#EXTINF:-1,ES: CAZAVISION HD
+http://492711360394321172.playhosts.xyz:80/play/vi08220/2281657605/321172.ts
+#EXTINF:-1,ES: COSMO FHD
+http://492711360394321187.playhosts.xyz:80/play/vi08220/2281657605/321187.ts
+#EXTINF:-1,ES: COSMO HD
+http://492711360394321188.playhosts.xyz:80/play/vi08220/2281657605/321188.ts
+#EXTINF:-1,ES: COSMO SD
+#EXTINF:-1,ES: CRIME+ INVESTIGATION HD
+http://492711360394321191.playhosts.xyz:80/play/vi08220/2281657605/321191.ts
+#EXTINF:-1,ES: CRIMEN & INVESTIGACION FHD
+http://492711360394321192.playhosts.xyz:80/play/vi08220/2281657605/321192.ts
+#EXTINF:-1,ES: CRIMEN & INVESTIGACION HD
+http://492711360394321193.playhosts.xyz:80/play/vi08220/2281657605/321193.ts
+#EXTINF:-1,ES: CRIMEN INVESTIGACION HD
+http://492711360394321195.playhosts.xyz:80/play/vi08220/2281657605/321195.ts
+#EXTINF:-1,ES: DECASA TV FHD
+http://492711360394321204.playhosts.xyz:80/play/vi08220/2281657605/321204.ts
+#EXTINF:-1,ES: DECASA TV HD
+http://492711360394321205.playhosts.xyz:80/play/vi08220/2281657605/321205.ts
+#EXTINF:-1,ES: DECASA HD
+http://492711360394321207.playhosts.xyz:80/play/vi08220/2281657605/321207.ts
+#EXTINF:-1,ES: DISCOVERY CHANNEL HD
+http://492711360394321209.playhosts.xyz:80/play/vi08220/2281657605/321209.ts
+#EXTINF:-1,ES: DISCOVERY CHANNELS FHD
+http://492711360394321210.playhosts.xyz:80/play/vi08220/2281657605/321210.ts
+#EXTINF:-1,ES: DISCOVERY CHANNELS HD
+http://492711360394321211.playhosts.xyz:80/play/vi08220/2281657605/321211.ts
+#EXTINF:-1,ES: DISCOVERY WORLD HD
+http://492711360394321213.playhosts.xyz:80/play/vi08220/2281657605/321213.ts
+#EXTINF:-1,ES: DMAX FHD
+http://492711360394321225.playhosts.xyz:80/play/vi08220/2281657605/321225.ts
+#EXTINF:-1,ES: DMAX HD
+http://492711360394321226.playhosts.xyz:80/play/vi08220/2281657605/321226.ts
+#EXTINF:-1,ES: ELLAS #V FHD
+http://492711360394321233.playhosts.xyz:80/play/vi08220/2281657605/321233.ts
+#EXTINF:-1,ES: ELLAS #V HD
+http://492711360394321234.playhosts.xyz:80/play/vi08220/2281657605/321234.ts
+#EXTINF:-1,ES: ELLAS #V SD
+http://492711360394321235.playhosts.xyz:80/play/vi08220/2281657605/321235.ts
+#EXTINF:-1,ES: FDF FHD
+http://492711360394321247.playhosts.xyz:80/play/vi08220/2281657605/321247.ts
+#EXTINF:-1,ES: FDF HD
+http://492711360394321248.playhosts.xyz:80/play/vi08220/2281657605/321248.ts
+#EXTINF:-1,ES: FOX LIFE HD
+http://492711360394321250.playhosts.xyz:80/play/vi08220/2281657605/321250.ts
+#EXTINF:-1,ES: FOX FHD
+http://492711360394321251.playhosts.xyz:80/play/vi08220/2281657605/321251.ts
+#EXTINF:-1,ES: FOX HD
+http://492711360394321252.playhosts.xyz:80/play/vi08220/2281657605/321252.ts
+#EXTINF:-1,ES: GOL TV FHD
+http://492711360394321258.playhosts.xyz:80/play/vi08220/2281657605/321258.ts
+#EXTINF:-1,ES: GOL TV HD
+http://492711360394321259.playhosts.xyz:80/play/vi08220/2281657605/321259.ts
+#EXTINF:-1,ES: GOL HD
+http://492711360394321261.playhosts.xyz:80/play/vi08220/2281657605/321261.ts
+#EXTINF:-1,ES: HISTORIA HD
+http://492711360394321262.playhosts.xyz:80/play/vi08220/2281657605/321262.ts
+#EXTINF:-1,ES: HISTORY HD
+http://492711360394321263.playhosts.xyz:80/play/vi08220/2281657605/321263.ts
+#EXTINF:-1,ES: HOLLYWOOD FHD
+http://492711360394321265.playhosts.xyz:80/play/vi08220/2281657605/321265.ts
+#EXTINF:-1,ES: HOLLYWOOD HD
+http://492711360394321266.playhosts.xyz:80/play/vi08220/2281657605/321266.ts
+#EXTINF:-1,ES: HORSE TV HD
+http://492711360394321268.playhosts.xyz:80/play/vi08220/2281657605/321268.ts
+#EXTINF:-1,ES: IBERALIA TV HD
+http://492711360394321270.playhosts.xyz:80/play/vi08220/2281657605/321270.ts
+#EXTINF:-1,ES: IBERALIA FHD
+http://492711360394321271.playhosts.xyz:80/play/vi08220/2281657605/321271.ts
+#EXTINF:-1,ES: LA RESISTENCIA FHD
+http://492711360394321285.playhosts.xyz:80/play/vi08220/2281657605/321285.ts
+#EXTINF:-1,ES: LA RESISTENCIA HD
+http://492711360394321286.playhosts.xyz:80/play/vi08220/2281657605/321286.ts
+#EXTINF:-1,ES: LA RESISTENCIA SD
+http://492711360394321287.playhosts.xyz:80/play/vi08220/2281657605/321287.ts
+#EXTINF:-1,ES: LA SEXTA FHD
+http://492711360394321288.playhosts.xyz:80/play/vi08220/2281657605/321288.ts
+#EXTINF:-1,ES: LA SEXTA HD
+http://492711360394321289.playhosts.xyz:80/play/vi08220/2281657605/321289.ts
+#EXTINF:-1,ES: MOVISTAR ACCION FHD
+http://492711360394321305.playhosts.xyz:80/play/vi08220/2281657605/321305.ts
+#EXTINF:-1,ES: MOVISTAR ACCION HD
+http://492711360394321306.playhosts.xyz:80/play/vi08220/2281657605/321306.ts
+#EXTINF:-1,ES: MOVISTAR ACCIÂ©N HD
+http://492711360394321308.playhosts.xyz:80/play/vi08220/2281657605/321308.ts
+#EXTINF:-1,ES: MOVISTAR CINE ESPANOL HD
+http://492711360394321310.playhosts.xyz:80/play/vi08220/2281657605/321310.ts
+#EXTINF:-1,ES: MOVISTAR CINE ESPAÃNOL HD
+http://492711360394321311.playhosts.xyz:80/play/vi08220/2281657605/321311.ts
+#EXTINF:-1,ES: MOVISTAR CINEDOC AND ROLL HD
+http://492711360394321313.playhosts.xyz:80/play/vi08220/2281657605/321313.ts
+#EXTINF:-1,ES: MOVISTAR CLASICOS FHD
+http://492711360394321314.playhosts.xyz:80/play/vi08220/2281657605/321314.ts
+#EXTINF:-1,ES: MOVISTAR CLASICOS HD
+http://492711360394321315.playhosts.xyz:80/play/vi08220/2281657605/321315.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA FHD
+http://492711360394321317.playhosts.xyz:80/play/vi08220/2281657605/321317.ts
+#EXTINF:-1,ES: MOVISTAR COMEDIA HD
+http://492711360394321318.playhosts.xyz:80/play/vi08220/2281657605/321318.ts
+#EXTINF:-1,ES: MOVISTAR DRAMA FHD
+http://492711360394321331.playhosts.xyz:80/play/vi08220/2281657605/321331.ts
+#EXTINF:-1,ES: MOVISTAR DRAMA HD
+http://492711360394321332.playhosts.xyz:80/play/vi08220/2281657605/321332.ts
+#EXTINF:-1,ES: MOVISTAR DRAMA SD
+http://492711360394321333.playhosts.xyz:80/play/vi08220/2281657605/321333.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 FHD
+http://492711360394321334.playhosts.xyz:80/play/vi08220/2281657605/321334.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 HD
+http://492711360394321335.playhosts.xyz:80/play/vi08220/2281657605/321335.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS 2 SD
+http://492711360394321336.playhosts.xyz:80/play/vi08220/2281657605/321336.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS FHD
+http://492711360394321337.playhosts.xyz:80/play/vi08220/2281657605/321337.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS HD
+http://492711360394321338.playhosts.xyz:80/play/vi08220/2281657605/321338.ts
+#EXTINF:-1,ES: MOVISTAR ESTRENOS SD
+http://492711360394321339.playhosts.xyz:80/play/vi08220/2281657605/321339.ts
+#EXTINF:-1,ES: MOVISTAR SERIES 2 FHD
+http://492711360394321344.playhosts.xyz:80/play/vi08220/2281657605/321344.ts
+#EXTINF:-1,ES: MOVISTAR SERIES 2 HD
+http://492711360394321345.playhosts.xyz:80/play/vi08220/2281657605/321345.ts
+#EXTINF:-1,ES: MOVISTAR SERIES 2 SD
+http://492711360394321346.playhosts.xyz:80/play/vi08220/2281657605/321346.ts
+#EXTINF:-1,ES: MOVISTAR SERIES FHD
+http://492711360394321347.playhosts.xyz:80/play/vi08220/2281657605/321347.ts
+#EXTINF:-1,ES: MOVISTAR SERIES HD
+http://492711360394321348.playhosts.xyz:80/play/vi08220/2281657605/321348.ts
+#EXTINF:-1,ES: MOVISTAR SERIES SD
+http://492711360394321349.playhosts.xyz:80/play/vi08220/2281657605/321349.ts
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA FHD
+http://492711360394321350.playhosts.xyz:80/play/vi08220/2281657605/321350.ts
+#EXTINF:-1,ES: MOVISTAR SERIESMANIA HD
+http://492711360394321351.playhosts.xyz:80/play/vi08220/2281657605/321351.ts
+#EXTINF:-1,ES: MOVISTAR ULTIDEPORTE SD
+http://492711360394321352.playhosts.xyz:80/play/vi08220/2281657605/321352.ts
+#EXTINF:-1,ES: MULTIDEPORTE HD
+http://492711360394321363.playhosts.xyz:80/play/vi08220/2281657605/321363.ts
+#EXTINF:-1,ES: NAT GEO WILD FHD
+http://492711360394321364.playhosts.xyz:80/play/vi08220/2281657605/321364.ts
+#EXTINF:-1,ES: NAT GEO WILD HD
+http://492711360394321365.playhosts.xyz:80/play/vi08220/2281657605/321365.ts
+#EXTINF:-1,ES: NAT GEO HD
+http://492711360394321366.playhosts.xyz:80/play/vi08220/2281657605/321366.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD FHD
+http://492711360394321368.playhosts.xyz:80/play/vi08220/2281657605/321368.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD HD
+http://492711360394321369.playhosts.xyz:80/play/vi08220/2281657605/321369.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC WILD SD
+http://492711360394321370.playhosts.xyz:80/play/vi08220/2281657605/321370.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC FHD
+http://492711360394321371.playhosts.xyz:80/play/vi08220/2281657605/321371.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC HD
+http://492711360394321372.playhosts.xyz:80/play/vi08220/2281657605/321372.ts
+#EXTINF:-1,ES: NATIONAL GEOGRAPHIC SD
+http://492711360394321373.playhosts.xyz:80/play/vi08220/2281657605/321373.ts
+#EXTINF:-1,ES: ODISEA FHD
+http://492711360394321388.playhosts.xyz:80/play/vi08220/2281657605/321388.ts
+#EXTINF:-1,ES: ODISEA HD
+http://492711360394321389.playhosts.xyz:80/play/vi08220/2281657605/321389.ts
+#EXTINF:-1,ES: ODISEA SD
+http://492711360394321390.playhosts.xyz:80/play/vi08220/2281657605/321390.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL HD
+http://492711360394321392.playhosts.xyz:80/play/vi08220/2281657605/321392.ts
+#EXTINF:-1,ES: PARAMOUNT CHANNEL SD
+http://492711360394321393.playhosts.xyz:80/play/vi08220/2281657605/321393.ts
+#EXTINF:-1,ES: SOMOS FHD
+http://492711360394321412.playhosts.xyz:80/play/vi08220/2281657605/321412.ts
+#EXTINF:-1,ES: SOMOS HD
+http://492711360394321413.playhosts.xyz:80/play/vi08220/2281657605/321413.ts
+#EXTINF:-1,ES: SOMOS SD
+http://492711360394321414.playhosts.xyz:80/play/vi08220/2281657605/321414.ts
+#EXTINF:-1,ES: SYFY FHD
+http://492711360394321422.playhosts.xyz:80/play/vi08220/2281657605/321422.ts
+#EXTINF:-1,ES: SYFY HD
+http://492711360394321423.playhosts.xyz:80/play/vi08220/2281657605/321423.ts
+#EXTINF:-1,ES: SYFY SD
+http://492711360394321424.playhosts.xyz:80/play/vi08220/2281657605/321424.ts
+#EXTINF:-1,ES: TCM FHD
+http://492711360394321425.playhosts.xyz:80/play/vi08220/2281657605/321425.ts
+#EXTINF:-1,ES: TCM HD
+http://492711360394321426.playhosts.xyz:80/play/vi08220/2281657605/321426.ts
+#EXTINF:-1,ES: TCM SD
+http://492711360394321427.playhosts.xyz:80/play/vi08220/2281657605/321427.ts
+#EXTINF:-1,ES: TELEDEPORTE FHD
+http://492711360394321432.playhosts.xyz:80/play/vi08220/2281657605/321432.ts
+#EXTINF:-1,ES: TELEDEPORTE HD
+http://492711360394321433.playhosts.xyz:80/play/vi08220/2281657605/321433.ts
+#EXTINF:-1,ES: TNT FHD
+http://492711360394321442.playhosts.xyz:80/play/vi08220/2281657605/321442.ts
+#EXTINF:-1,ES: TNT HD
+http://492711360394321443.playhosts.xyz:80/play/vi08220/2281657605/321443.ts
+#EXTINF:-1,ES: TNT SD
+http://492711360394321444.playhosts.xyz:80/play/vi08220/2281657605/321444.ts
+#EXTINF:-1,ES: VISION 6 TV HD
+http://492711360394321475.playhosts.xyz:80/play/vi08220/2281657605/321475.ts
+#EXTINF:-1,ES: XTRM FHD
+http://492711360394321476.playhosts.xyz:80/play/vi08220/2281657605/321476.ts
+#EXTINF:-1,ES: XTRM HD
+http://492711360394321477.playhosts.xyz:80/play/vi08220/2281657605/321477.ts
     

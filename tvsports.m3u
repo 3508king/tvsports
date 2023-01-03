@@ -15,11 +15,12 @@
 			 "referer" : "https://starlive.xyz/",
                     "isHost" : "true"			            
 		},{	    
-"name": "17:00                    Qatar-Ecuador",
-"image": "https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga-live.png",
-           "url": "https://wecast.to/onionstream.php?stream=AdJwOQobu96J",
-          "referer" : "https://wecast.to/",
-             "isHost":"true"		},{
+"name": "20:45                    Arsenal-Newcastle",
+                    "image": "https://static.wikia.nocookie.net/logopedia/images/5/54/Sky_Sports_Premier_League_HD.png/revision/latest?cb=20200608142409/",
+			   "url": "https://gocast2.com/embedcr.php?player=desktop&live=skysprem",
+              "referer": "https://gocast2.com/",
+             "isHost": "true"
+	     },{
 "name": "17:00                    Qatar-Ecuador ",
 			"image": "https://cdn.livesoccertv.com/images/channels/thumbnails/bbc-one.png",
 		"url":"https://gocast2.com/max.php?player=desktop&live=hdchnl1",
